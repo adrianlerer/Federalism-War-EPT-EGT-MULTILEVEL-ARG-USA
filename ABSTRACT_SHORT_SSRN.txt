@@ -1,0 +1,25 @@
+From Cooperation to Competition: Evolutionary Dynamics of Federal-State Resource Wars in Argentina and the United States
+
+Ignacio Adrián Lerer
+Independent Researcher, Buenos Aires, Argentina
+
+How do federal systems evolve from cooperation to competitive resource extraction? I apply Extended Phenotype Theory (Dawkins 1982) and multilevel Evolutionary Game Theory (Maynard Smith 1982) to analyze federal-state/provincial conflicts in Argentina (2003-2025) and the United States (2000-2025).
+
+Subnational governments construct "institutional extended phenotypes" to capture federal resources. I identify three Evolutionarily Stable Strategies (ESS):
+
+(1) Unilateral Extraction (Argentina): San Luis triggered 450% firm redomiciliation via tax elimination (USD 200M/year federal loss). Formosa operates ~200 ghost NGOs capturing social assistance funds (15-20% fictitious beneficiaries, ARS 3B/year). La Matanza inflated census 25% versus 10% plausible (ARS 5B/year extra transfers). Extraction Index (EI): +0.73.
+
+(2) Strategic Non-Cooperation (USA): California's SB 54 protects 2.2M undocumented residents while retaining USD 5.5B/year federal funds (only USD 28M withheld). Minnesota Governor Walz resists ICE deportations (January 2025) risking USD 15B. EI: +0.55.
+
+(3) Universal Cooperation (Argentina): Catamarca averaged 91% legislative alignment across ALL presidents (Kirchner-PJ, Macri-Cambiemos, Fernández-PJ, Milei-LLA), receiving 2.8x national average ATN. Misiones 89% alignment, 1.9x ATN. Partisan loyalty (La Rioja) cost USD 600M/20 years versus universal cooperation. EI: -0.08.
+
+I document multilevel clientelism: President distributes ATN to governors; governors discipline congressional delegations to vote federal laws; governors distribute captured resources to voters via territorial operatives. The legislative vote becomes an extended phenotype of provincial power.
+
+Evidence: n=1,778 observations (Argentina 528, USA 1,250). Difference-in-Differences, Instrumental Variables, Monte Carlo simulations (EGT replicator dynamics).
+
+Contributions: First EPT application to fiscal federalism; first multilevel EGT formalization (3 simultaneous game levels); first quantitative Argentina-USA comparison.
+
+Policy: Reform coparticipación/ATN with objective formula (Argentina). Clarify commandeering doctrine (USA). Framework generalizable to Brazil, Mexico, India, Nigeria.
+
+JEL: H77, C72, D72, P16, K00
+Keywords: Fiscal federalism, evolutionary game theory, extended phenotype, multilevel clientelism
