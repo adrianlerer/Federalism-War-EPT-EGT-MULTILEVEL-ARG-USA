@@ -50,10 +50,10 @@ This paper builds on Lerer (2025), which applied Dawkins's extended phenotype th
 
 [^SSRN]: Lerer, I.A. (2025). "The Extended Phenotype of Populism: A Memetic Analysis of Policy Persistence in Latin America." SSRN Working Paper. Available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5463814. The SSRN paper demonstrated that populist policies (e.g., Aguinaldo, Obras Sociales) function as extended phenotypes surviving 60+ years across 22 governments. This paper refines that analysis by isolating clientelistic extraction mechanisms and testing cross-regime ESS stability.
 
-We develop a **unified multilayer framework** that explains clientelism as an **evolutionarily stable strategy (ESS)** emerging from the interaction of five analytical layers:
+We develop a **unified multilayer framework** that proposes to explain clientelism as an **evolutionarily stable strategy (ESS)** emerging from the interaction of five analytical layers:
 
 ### **Layer 1: Tocqueville's Subnational Despotism**
-Tocqueville (1835) warned that democratic centralization could create "soft despotism" at the subnational level, where citizens trade autonomy for security. We show that **federal fiscal transfers** enable governors and mayors to construct parallel authority structures that bypass horizontal accountability.
+Tocqueville (1835) warned that democratic centralization could create "soft despotism" at the subnational level, where citizens trade autonomy for security. We propose that **federal fiscal transfers** enable governors and mayors to construct parallel authority structures that bypass horizontal accountability.
 
 - **Evidence**: Argentine provinces with Extraction Index (EI) > 0.40 receive 3–5× more federal transfers per capita than cooperative provinces (EI < 0.10).[^9]
 
@@ -76,21 +76,21 @@ We adapt Dawkins' (1982) concept of the "extended phenotype"—how genes shape b
 5. **Demographic Engineering** (Land seizures, refugee resettlement)
 6. **Transborder Extraction** (Foreign aid conditioned on domestic political goals)
 
-- **Evidence**: Spain's €1.5B rail credits to Morocco coincided with Moroccan cooperation on migration control (60,000 interdictions/year 2020–2025).[^11]
+- **Evidence**: Spain's €1.5B rail credits to Morocco temporally coincided with Moroccan cooperation on migration control (60,000 interdictions/year 2020–2025), suggesting potential linkage.[^11]
 
 [^11]: Source: Spanish Interior Ministry, *Balance de Criminalidad* (2020–2025); UNHCR Mediterranean migration data. Commit: cc39c41 (SPAIN_TRANSBORDER_CLIENTELISM.md). [⚠️ TO VERIFY: Direct correlation analysis pending].
 
 ### **Layer 4: Evolutionary Game Theory (EGT)**
-We model clientelism as a **multiplayer evolutionary game** where *punteros*, citizens, and politicians interact under **replicator dynamics** (Maynard Smith, 1982). An ESS emerges when no alternative strategy (e.g., programmatic redistribution, market-based allocation) yields higher fitness in equilibrium.
+We model clientelism as a **multiplayer evolutionary game** where *punteros*, citizens, and politicians interact under **replicator dynamics** (Maynard Smith, 1982). We propose that an ESS emerges when no alternative strategy (e.g., programmatic redistribution, market-based allocation) yields higher fitness in equilibrium.
 
-- **Evidence**: Milei's dismantling of 300+ *Unidades de Gestión* (clientelistic nodes) in 2024 refutes **unconditional ESS stability**. We show ESS is **conditional on regime type**: stable under Peronist/Socialist governments, unstable under Counter-Establishment regimes (Milei, Trump).[^12]
+- **Evidence**: Milei's dismantling of 300+ *Unidades de Gestión* (clientelistic nodes) in 2024 challenges **unconditional ESS stability**. We propose ESS is **conditional on regime type**: stable under Peronist/Socialist governments, potentially unstable under Counter-Establishment regimes (Milei, Trump)—though final validation requires multi-year observation.[^12]
 
 [^12]: Source: Argentine Ministry of Human Capital, *Programa Potenciar Trabajo* dissolution records (Feb–Mar 2024). Data: 300+ units eliminated, 600+ employees dismissed, 1.2M beneficiaries transitioned to direct transfers. Commit: b9f9ae7 (MILEI_NATURAL_EXPERIMENT.md). [✅ VERIFIED with official decree].
 
 ### **Layer 5: Fryer's Signaling Equilibrium**
 Fryer (2024) models how Counter-Establishment leaders signal commitment by **constructing non-violent power bases**. We extend this to **anti-clientelistic signaling**: dismantling *puntero* networks signals to voters that resources will flow directly, not through intermediaries.
 
-- **Evidence**: Argentine poverty fell from 40.1% (Q2 2023) to 27.5% (Q3 2025) after Milei eliminated *puntero* intermediation, despite GDP contraction.[^13] This suggests clientelistic networks were **net extractive**, not redistributive.
+- **Evidence**: Argentine poverty fell from 40.1% (Q2 2023) to 27.5% (Q3 2025) after Milei eliminated *puntero* intermediation, despite GDP contraction.[^13] This is consistent with the hypothesis that clientelistic networks may have been **net extractive** rather than redistributive, though counterfactual uncertainty remains and alternative explanations (e.g., devaluation correction, commodity prices) cannot be ruled out.
 
 [^13]: Source: INDEC, *Incidencia de la Pobreza* (Q2 2023, Q3 2025); Ministry of Human Capital progress reports. Poverty reduction: −12.6 percentage points (−31%). Commit: b9f9ae7. [✅ VERIFIED with INDEC official data].
 
@@ -136,9 +136,9 @@ Where each dimension is scored 0.0–1.0:
 ## 1.4 Key Findings
 
 ### **Finding 1: Clientelism is Not OECD vs. Non-OECD**
-We reject the conventional dichotomy that clientelism is confined to "weak states." Spain's €1.3B transport subsidy (18 months pre-election) and €1.5B tied credits exhibit **electoral timing** and **resource prioritization** identical to Argentine *puntero* networks, despite Spain's high state capacity (EI +0.17 vs. Argentina +0.41).
+We challenge the conventional dichotomy that clientelism is confined to "weak states." Spain's €1.3B transport subsidy (18 months pre-election) and €1.5B tied credits exhibit **electoral timing** and **resource prioritization** patterns similar to Argentine *puntero* networks, despite Spain's high state capacity (EI +0.17 vs. Argentina +0.41).
 
-**Implication**: Clientelism is a **strategy**, not a state capacity failure.
+**Implication**: We propose clientelism is a **strategic choice**, not necessarily a state capacity failure.
 
 ### **Finding 2: ESS Stability is Conditional on Regime Type** [Tentative]
 
@@ -161,7 +161,7 @@ Milei's elimination of 300+ *Unidades de Gestión* and transition to direct ANSE
 
 ## 1.5 Policy Implications
 
-Our framework yields **replicable strategies** for dismantling clientelism:
+Our framework suggests **potentially replicable strategies** for dismantling clientelism:
 
 ### **For Type A (Puntero-Mediated) Regimes**:
 1. **Reframe Ideologically**: Label intermediaries as "gerentes de la pobreza" (poverty managers) to delegitimize extraction.[^15]
@@ -202,13 +202,13 @@ The paper proceeds as follows:
 
 This paper makes **four contributions**:
 
-1. **Theoretical**: We unify disparate literatures (public choice, EPT, EGT, Tocqueville) into a multilayer framework that explains clientelism as an ESS conditional on regime type.
+1. **Theoretical**: We propose a unified framework integrating disparate literatures (public choice, EPT, EGT, Tocqueville) to model clientelism as an ESS conditional on regime type.
 
 2. **Empirical**: We introduce the first **six-dimensional Extraction Index** that quantifies clientelism across OECD and non-OECD democracies, including a novel **transborder dimension**.
 
 3. **Methodological**: We exploit Milei's 2024–2025 reforms as a **natural experiment** to test ESS stability, providing rare causal evidence on anti-clientelism strategies.
 
-4. **Policy**: We derive **replicable anti-clientelism playbooks** for Type A, Type B, and Hybrid regimes, validated by Milei's −31% poverty reduction despite dismantling clientelistic networks.
+4. **Policy**: We derive **potentially replicable anti-clientelism playbooks** for Type A, Type B, and Hybrid regimes, informed by Milei's early results (−31% poverty reduction despite dismantling clientelistic networks), though long-term sustainability remains to be validated.
 
 ---
 
