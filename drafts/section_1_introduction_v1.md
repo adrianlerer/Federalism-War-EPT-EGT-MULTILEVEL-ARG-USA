@@ -46,6 +46,10 @@ Traditional theories of redistribution focus on income inequality (Meltzer & Ric
 
 ## 1.2 This Paper's Contribution
 
+This paper builds on Lerer (2025), which applied Dawkins's extended phenotype theory to populist policy persistence in Argentina, demonstrating a 216:1 memetic fitness advantage for populist over liberal policies.[^SSRN] We extend that framework in four directions: (1) from populism to **clientelism** (a measurable subset with explicit extraction), (2) from single-country to **cross-national** comparison (Argentina, Spain, USA), (3) from qualitative persistence to **quantitative measurement** via a six-dimensional Extraction Index (EI), and (4) from unconditional to **conditional ESS stability** (regime-dependent).
+
+[^SSRN]: Lerer, I.A. (2025). "The Extended Phenotype of Populism: A Memetic Analysis of Policy Persistence in Latin America." SSRN Working Paper. Available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5463814. The SSRN paper demonstrated that populist policies (e.g., Aguinaldo, Obras Sociales) function as extended phenotypes surviving 60+ years across 22 governments. This paper refines that analysis by isolating clientelistic extraction mechanisms and testing cross-regime ESS stability.
+
 We develop a **unified multilayer framework** that explains clientelism as an **evolutionarily stable strategy (ESS)** emerging from the interaction of five analytical layers:
 
 ### **Layer 1: Tocqueville's Subnational Despotism**
