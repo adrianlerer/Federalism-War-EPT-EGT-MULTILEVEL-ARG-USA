@@ -107,9 +107,12 @@ Total Population: 46.2 million (2025)
 - **Poverty fell** 40.1% (Q2 2023) → 27.5% (Q3 2025) = **−31%**
 - **EI dropped** from +0.30 to +0.20
 
-**CRITICAL DIFFERENCE**: 
+**CRITICAL DIFFERENCE** (with epistemic humility): 
 - **SSRN paper** (Sept 2025): Predicted hybrid would fail
-- **Current paper** (Jan 2026): Milei **succeeded** in Type A → Type B transition (but electoral cost unclear)
+- **Current paper** (Jan 2026): Milei **appears to be transitioning** from Type A → Type B (300+ units eliminated, poverty −31%, EI +0.30 → +0.20)
+- **IMPORTANT CAVEAT**: Long-term sustainability unclear; early results (18 months) insufficient to declare "success"
+- **Historical precedent**: De la Rúa also showed early fiscal discipline (2000) before collapse (2001)
+- **Observation window**: Too short to validate ESS disruption vs. temporary deviation
 
 ---
 
@@ -235,21 +238,32 @@ Use RootFinder (https://github.com/adrianlerer/RootFinder-Production) to trace:
 
 ---
 
-#### **Addition 3: Updated Milei Trajectory (Jan 2026)**
+#### **Addition 3: Updated Milei Trajectory (Jan 2026)** [WITH EPISTEMIC HUMILITY]
 
-**Expand Section 9 with Jan 2026 data**:
+**Expand Section 9 with Jan 2026 data** (framing as ongoing experiment, NOT concluded):
 
-| Metric | SSRN Prediction (Sept 2025) | Actual Outcome (Jan 2026) | Validation |
+| Metric | SSRN Prediction (Sept 2025) | Observed Outcome (Jan 2026, 18 months) | Status |
 |--------|----------------------------|---------------------------|------------|
-| Electoral performance | Decline (27.3% in Sept) | [⚠️ TO VERIFY: Oct 2025 national midterms?] | Partial |
-| Hybrid stability | "Unstable, will resolve" | Resolved toward Type B (digital) | ✅ Confirmed |
-| Policy rigidity | "Violates evolutionary feedback" | Maintained + poverty fell 31% | ⚠️ **REFUTED** |
-| ESS disruption | Not predicted | 300+ units eliminated, EI −0.10 | ⚠️ **NEW FINDING** |
+| Electoral performance | Decline (27.3% in Sept) | [⚠️ TO VERIFY: Oct 2025 national midterms] | ⚠️ Decline confirmed, magnitude TBD |
+| Hybrid stability | "Unstable, will resolve" | **Appears** resolving toward Type B | ⚠️ **Too early; needs 8–10 year cycle** |
+| Policy rigidity | "Violates evolutionary feedback" | Maintained + poverty fell 31% | ⚠️ **Early result only (cf. De la Rúa 2000)** |
+| ESS disruption | Not predicted (ESS assumed stable) | 300+ units eliminated, EI −0.10 | ⚠️ **Temporary deviation vs. permanent break unclear** |
 
-**Theoretical Implication**: Rigidity can **succeed** under Counter-Establishment regimes if:
-1. Ideological distance from Establishment is large
-2. Direct transfers replace intermediaries (reduces extraction)
-3. Poverty reduction is rapid (validates signaling)
+**Tentative Theoretical Refinement** (pending multi-year validation):
+
+Counter-Establishment regimes **may** temporarily disrupt clientelistic ESS if:
+1. Ideological distance from Establishment is large ("gerentes de la pobreza" reframing)
+2. Direct transfers replace intermediaries (ANSES digitalization reduces extraction)
+3. Poverty reduction is rapid enough to validate anti-clientelism signaling
+
+**CRITICAL CAVEATS**:
+- **Time scale mismatch**: ESS stability requires **multi-electoral-cycle** observation (8–10 years); current data spans only 18 months
+- **Historical precedent**: De la Rúa (1999–2001) also showed early fiscal discipline (déficit cero) before collapse
+- **Reversion risk**: If poverty rises, electoral losses mount, or external shocks occur (e.g., commodity price collapse), populist ESS may reassert
+- **Counterfactual uncertainty**: Poverty decline may be driven by factors orthogonal to clientelism dismantling (e.g., devaluation correction, commodity prices)
+
+**Prudent Framing for Paper** (Section 9 draft language):
+> "The Milei administration (Dec 2023–present) provides an **ongoing natural experiment** in whether Counter-Establishment regimes can permanently disrupt clientelistic ESS. Early evidence (18 months) is **consistent with** Type A → Type B transition: 300+ Unidades de Gestión dismantled, 1.2M beneficiaries transitioned to direct ANSES transfers, poverty declining from 40.1% to 27.5% (−31%), and EI falling from +0.30 to +0.20. However, **historical precedent cautions against premature conclusions**. De la Rúa (1999–2001) similarly maintained fiscal discipline for 18 months before his government collapsed. True ESS disruption requires demonstrating stability across at least one full electoral cycle (8–10 years). We classify Milei's reforms as a **high-risk experiment** whose success or failure will provide critical evidence on the **conditionality of ESS stability**. Final validation awaits the 2027 presidential election and subsequent policy persistence through 2031."
 
 ---
 

@@ -140,20 +140,22 @@ We reject the conventional dichotomy that clientelism is confined to "weak state
 
 **Implication**: Clientelism is a **strategy**, not a state capacity failure.
 
-### **Finding 2: ESS Stability is Conditional on Regime Type**
-Argentine *punteros* persisted under Kirchner (2003–2015) and Fernández (2019–2023) but collapsed under Milei (2024–2025). We model this as **regime-dependent ESS**: clientelism is stable under Establishment regimes (which tolerate or co-opt *punteros*) but unstable under Counter-Establishment regimes (which signal commitment by dismantling intermediaries).
+### **Finding 2: ESS Stability is Conditional on Regime Type** [Tentative]
 
-**Implication**: Anti-clientelism requires **ideological distance**, not just institutional reform.
+Argentine *punteros* persisted under Kirchner (2003–2015) and Fernández (2019–2023) but **appeared** to collapse under Milei (2024–2025, 300+ units eliminated in 6 months). We model this as **regime-dependent ESS**: clientelism is stable under Establishment regimes (which tolerate or co-opt *punteros*) but **may be** unstable under Counter-Establishment regimes (which signal commitment by dismantling intermediaries). However, **only 18 months have elapsed**—insufficient to validate permanent ESS disruption vs. temporary deviation. De la Rúa (1999–2001) also showed early discipline before collapse.
+
+**Implication**: Anti-clientelism **may** require **ideological distance** combined with sustained poverty reduction, but final validation awaits multi-year observation (through 2027–2031).
 
 ### **Finding 3: Transborder Clientelism is an Emergent Sixth Phenotype**
 Spain's €1.5B rail credits to Morocco, Egypt, and Uzbekistan represent a novel form of clientelism: **foreign policy instrumentalized for domestic electoral gain**. By tying credits to Spanish contractors (CAF, Talgo) and geopolitical quid pro quos (Moroccan migration control), Spain generates domestic jobs and signals competence while externalizing fiscal risk.
 
 **Implication**: OECD clientelism increasingly operates **across borders**, not just within them.
 
-### **Finding 4: Direct Transfers Can Dismantle Clientelism**
-Milei's elimination of 300+ *Unidades de Gestión* and transition to direct ANSES transfers (bypassing *punteros*) reduced Argentina's EI from +0.30 to +0.20 while **poverty fell 31%**. This refutes the claim that clientelistic networks are necessary for redistribution.
+### **Finding 4: Direct Transfers May Dismantle Clientelism** [Preliminary Evidence]
 
-**Implication**: Digital infrastructure enables **anti-clientelistic redistribution** at scale.
+Milei's elimination of 300+ *Unidades de Gestión* and transition to direct ANSES transfers (bypassing *punteros*) reduced Argentina's EI from +0.30 to +0.20 while **poverty fell 31%** over 18 months.[^13] This **early evidence** challenges the claim that clientelistic networks are necessary for redistribution. However, **historical precedent urges caution**: De la Rúa (1999–2001) also maintained fiscal discipline for 18 months before his government collapsed. True validation requires observing policy persistence across a full electoral cycle (8–10 years, through 2031).
+
+**Implication**: Digital infrastructure **may enable** anti-clientelistic redistribution at scale, but Milei's reforms constitute an **ongoing natural experiment** whose success or failure awaits the 2027 election and subsequent policy persistence.
 
 ---
 
