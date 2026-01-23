@@ -17,3 +17,13 @@ Fri Jan 23 05:15:29 UTC 2026: Updated Layer 6 with verified Brienza quote - 'La 
 Fri Jan 23 05:18:00 UTC 2026: Adding Sowell counter-frame to Layer 6 - 'Envy plus rhetoric equals social justice'
 Fri Jan 23 05:19:15 UTC 2026: Starting Section 5 (Minnesota Case Study) - target 6,000 words
 Fri Jan 23 05:25:47 UTC 2026: Section 5 complete - 6,400 words, EI = +0.26, 3 scenarios (2026-2027)
+Fri Jan 23 07:52:28 UTC 2026: Added WEF Jan 2026 validation - inequality → polarization → clientelism pathway confirmed
+Fri Jan 23 08:00:39 UTC 2026: Identified 4 key concepts from prior SSRN papers (5472748, 5776925) for integration
+
+Integration Plan:
+1. Superestimulus Theory (Cuckoo Paper) → Layer 3 (EPT), Prop 17
+2. "Elijo Creer" Cultural Phenomenon → Layer 6 (Rhetoric), Box 3
+3. Regime-Specific Fitness (Constitutional Paper) → Layer 4 (EGT), Prop 18
+4. Institutional Friction (Constitutional Paper) → Section 5.8 (Comparative), Table 6
+
+Priority: Integrate before writing Section 6 (Argentina) to maximize synergy

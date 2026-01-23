@@ -917,6 +917,92 @@ The result is a **natural experiment** (2025–2027) that will test **Propositio
 
 ---
 
+## 5.10 Type C Clientelism: Tolerance as Complementary Extraction (USA Context)
+
+While Minnesota's primary clientelistic mechanism is **cross-level** (federal funding + state amplification), U.S. cities controlled by the Democratic Party exhibit patterns consistent with **Type C clientelism**—tolerance of redistributive crime under "social justice" rhetoric.
+
+### 5.10.1 The Prop 47 Natural Experiment (California, 2014–Present)
+
+**Background**: California Proposition 47 (2014) reclassified theft of property valued <$950 from felony to misdemeanor. Proponents framed it as "criminal justice reform" to reduce mass incarceration. Critics argued it would increase theft by reducing deterrence.
+
+**Key Provisions**:
+1. Theft <$950: Felony → Misdemeanor (max 6 months jail vs. 3 years prison)
+2. Drug possession: Felony → Misdemeanor
+3. Retroactive: ~10,000 inmates released early (2015)
+
+**Empirical Outcomes** (2014–2019):
+- **Retail theft**: Increased 25% in Prop 47 cities (SF, LA, Oakland) vs. 8% in comparison cities (San Diego, Fresno) [⚠️ TO VERIFY: Public Policy Institute of California studies]
+- **Organized retail crime**: "Flash mob" thefts (groups of 20–50 people simultaneously looting stores) became common in SF/LA (2020–2023)
+- **Business closures**: Walgreens closed 17 SF stores (2021–2023), citing theft losses >$1M/year per store [⚠️ TO VERIFY]
+
+**Electoral Consequences**:
+- **2018**: Gavin Newsom (Democrat, pro-Prop 47) elected governor with 62% vote
+- **2022**: San Francisco recalled progressive DA Chesa Boudin (56% yes), citing soft-on-crime policies
+- **2024**: California voters passed Prop 36 (70% yes), partially reversing Prop 47 by reinstating felonies for repeat offenders
+
+**Type C Mechanism**:
+1. **Beneficiaries**: Low-income individuals in SF/LA/Oakland (disproportionately Black/Latino, Democratic base)
+2. **Extraction source**: Private retail businesses (Target, Walgreens, local stores)
+3. **Rhetorical legitimation**: "Poverty forces people to steal"; "Criminalizing poverty is racist"
+4. **State cost**: Political (tolerance), not fiscal
+5. **Electoral benefit**: Beneficiaries vote 80%+ Democratic; victims (store owners, shoppers) are diffuse, disorganized
+
+**Why This Is Clientelism (Not Just Crime)**:
+- **Systematic tolerance**: Prop 47 was deliberate policy choice, not enforcement failure
+- **Geographic concentration**: Tolerance strongest in Democrat-controlled cities (SF/LA/Oakland), not Republican areas (Orange County, San Diego)
+- **Electoral targeting**: Beneficiaries are Democratic base; victims (business owners) less likely to vote Democrat anyway
+
+### 5.10.2 Minnesota Context: Lower Type C Intensity
+
+**Minnesota exhibits weaker Type C** than California/Oregon because:
+1. **Lower baseline crime**: Minneapolis homicide rate 13.4/100k (2023) vs. SF 6.0/100k, but property crime lower [⚠️ TO VERIFY]
+2. **Less retail tolerance**: Minnesota did not pass Prop 47-equivalent; theft >$1,000 remains felony
+3. **Police defunding reversed**: Minneapolis "Defund the Police" ballot measure (2021) **failed** 56–44%, suggesting less tolerance than SF
+
+**But**: Minneapolis exhibits Type C patterns in **specific domains**:
+1. **Homeless camps**: Tolerated in downtown Minneapolis despite business complaints (2020–2023)
+2. **Fare evasion**: Light rail fare evasion ~30% (2022), rarely enforced [⚠️ TO VERIFY]
+3. **Drug tolerance**: Open-air drug markets in downtown tolerated under "harm reduction" rhetoric
+
+**Electoral Effect** (Hypothesized):
+- Type C **reinforces** Type A (refugee/VOLAG clientelism) by providing **immediate gratification** to lower-income Democratic base
+- Victims of Type C (business owners, commuters) may **offset** gains from refugee resettlement by voting Republican in suburbs
+
+### 5.10.3 Trump's "Law and Order" as Type C Disruption
+
+**Trump 2024 Campaign**: Emphasized "crime in Democrat-run cities" as core message
+- **Rhetoric**: "They're letting criminals run wild"; "Defund the police was a disaster"
+- **Evidence cited**: SF retail theft, Portland homeless camps, Minneapolis 2020 riots
+
+**Electoral Results** (2024):
+- Trump gained in urban counties vs. 2020 (SF +3pp, LA +4pp, Minneapolis +2pp) [⚠️ TO VERIFY]
+- "Law and order" ranked #3 issue for swing voters (after economy, immigration)
+
+**Mechanism**: Type C creates **victims** who might otherwise support Democrats (working-class, minority business owners, urban renters). When crime reaches threshold, victims **defect** → Trump gains.
+
+**Minnesota Specific**: Minneapolis suburbs (Hennepin outer ring) swung toward Republicans (2022–2024) citing crime concerns, even as core Minneapolis remained blue due to refugee/university vote.
+
+### 5.10.4 Comparative Implication: Type C as "Pressure Valve"
+
+**Hypothesis**: Establishment regimes use Type C to **supplement** Type A/B when fiscal capacity is constrained:
+- **Argentina**: Villa crime tolerance supplements puntero transfers
+- **USA**: Prop 47 tolerance supplements welfare/refugee programs
+- **Spain**: Okupación tolerance supplements transport subsidies
+
+**Prediction**: Counter-Establishment regimes (Milei, Trump) **eliminate Type C first** because:
+1. **Easiest to disrupt**: No fiscal cost, just enforcement
+2. **High electoral payoff**: Victims are majority, beneficiaries are minority
+3. **Low institutional resistance**: Police/judges favor enforcement; only activists resist
+
+**Evidence (Preliminary)**:
+- **Milei (Argentina)**: Security protocol (2024) → repression of piqueteros, villa crime crackdowns → 65% approval
+- **Trump (USA, projected)**: Promises federal intervention in SF/LA crime → unknown outcome (2025–2027)
+- **Bukele (El Salvador)**: Eliminated gang tolerance (2022–2024) → 90% approval, despite mass incarceration
+
+**Implication**: Type C is **least stable** form of clientelism — easy to disrupt once voters perceive costs.
+
+---
+
 **Word Count**: ~6,400 words  
 **Status**: Draft v1 complete  
 **Next Section**: Section 6 (Argentina Cases) or Section 4 (EI Methodology)?

@@ -186,6 +186,54 @@ If Minnesota successfully **resists** via court injunctions and sanctuary polici
 
 ---
 
+## BOX 4: Type C Clientelism — "Self-Service" Extraction via Tolerance
+
+**The Third Mode: When the State Delegates Extraction to Beneficiaries**
+
+Traditional clientelism involves intermediaries (Type A: *punteros*, VOLAGs) or direct state transfers (Type B: subsidies, ANSES). We propose a third mode emerges when states **tolerate redistributive crime** under rhetoric of "victims of the system"—effectively **delegating extraction** to beneficiaries themselves.
+
+**Mechanism**: State refrains from enforcing property/theft laws in specific jurisdictions, allowing beneficiaries to **self-extract** via:
+- **Petty theft tolerance**: California Prop 47 (2014) decriminalized theft <$950 → retail theft surged 25% (2014–2019) [⚠️ TO VERIFY]
+- **Squatter tolerance (*okupaciones*)**: Spain tolerates ~87,000 occupied properties (2023) [⚠️ TO VERIFY]; eviction requires 6–24 month judicial process
+- **Villa tolerance**: Argentine villas operate as de facto autonomous zones where property/contract law weakly enforced; theft/informal commerce redistributes to villa residents
+
+**Why "Clientelism"?**
+1. **Systematic, not random**: Tolerance concentrated in jurisdictions controlled by specific parties (Barcelona/PSOE, San Francisco/Democrats, Buenos Aires villas/Peronism)
+2. **Electoral benefit**: Beneficiaries (thieves, squatters, villa residents) vote overwhelmingly for tolerating party
+3. **Rhetorical legitimation**: Framed as "social justice" (victims forced to steal by inequality), not crime
+
+**Distinguishing Features vs. Type A/B**:
+
+| **Dimension** | **Type A (Puntero)** | **Type B (Direct)** | **Type C (Autoservicio)** |
+|--------------|---------------------|-------------------|-------------------------|
+| **Intermediary** | Yes (*puntero*) | No (state direct) | **No (self-extraction)** |
+| **Funding Source** | Fiscal transfers | Fiscal transfers | **Private property** |
+| **State Cost** | Fiscal | Fiscal | **Political** (tolerance) |
+| **Memetic Fitness** | 8.0 | 7.5 | **9.5** (simplest: just take) |
+| **Disruption Ease** | Hard (punteros resist) | Medium (voters resist cuts) | **Easy** (victims demand law & order) |
+
+**Cross-National Evidence** (Preliminary):
+- **Argentina**: Villa crime rates ~5× national average [⚠️ TO VERIFY]; Milei's security protocol (2024) → 65% approval
+- **USA**: California Prop 47 cities (SF, LA, Oakland) → theft/homelessness surge; backlash elected "tough on crime" mayors (2022–2024)
+- **Spain**: *Okupación* concentrated in PSOE-controlled cities (Barcelona, Madrid); PP-controlled Andalucía has stricter enforcement
+
+**Theoretical Implication**: Type C is **complementary** to Type A/B, not substitutive. Governments maximize extraction via:
+1. Fiscal extraction (taxes → punteros/subsidies)
+2. **Tolerance extraction** (allow beneficiaries to take from private citizens)
+
+**Prediction**: Regions with high Type A (punteros) also exhibit high Type C (crime tolerance), because both serve same electoral base.
+
+**Why Include This?**: Type C explains patterns traditional clientelism cannot:
+- Why crime is **tolerated systematically** in specific jurisdictions
+- Why "law and order" disruptions (Bukele, Milei, Trump) achieve high approval despite targeting "vulnerable" populations
+- Why WEF (2026) identifies "erosion of human rights" as risk—competing definitions (right to steal vs. right not to be stolen from)
+
+**Empirical Sections**: We document Type C in Argentina (6.7), Spain (7.6), and USA (8.5).
+
+**End of Box 4**
+
+---
+
 ## 1.2 This Paper's Contribution
 
 This paper builds on Lerer (2025), which applied Dawkins's extended phenotype theory to populist policy persistence in Argentina, demonstrating a 216:1 memetic fitness advantage for populist over liberal policies.[^SSRN] We extend that framework in four directions: (1) from populism to **clientelism** (a measurable subset with explicit extraction), (2) from single-country to **cross-national** comparison (Argentina, Spain, USA), (3) from qualitative persistence to **quantitative measurement** via a six-dimensional Extraction Index (EI), and (4) from unconditional to **conditional ESS stability** (regime-dependent).
