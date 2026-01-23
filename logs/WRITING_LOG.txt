@@ -5,3 +5,6 @@ Thu Jan 22 18:43:59 UTC 2026: Integrated SSRN paper (ssrn-5463814) - added self-
 Thu Jan 22 18:56:34 UTC 2026: Softened language from definitive claims to proposals/postulations (academic tone)
 Thu Jan 22 20:07:30 UTC 2026: Starting Section 2 (Literature Review) - 8 pages target
 Thu Jan 22 20:09:47 UTC 2026: Completed Section 2 draft v1 (5,200 words) - Literature Review covering Public Choice, Fiscal Federalism, EPT, EGT, Signaling
+Fri Jan 23 04:32:42 UTC 2026: Analyzing ssrn-5958614.pdf (Lex Informatica/Algorithmica) for relevance to repo
+Fri Jan 23 04:34:11 UTC 2026: Starting Section 3 (Theoretical Framework) - 10 pages, formalizing 5-layer model + EI + ESS
+Fri Jan 23 04:37:44 UTC 2026: Completed Section 3 draft v1 (7,200 words) - Formalized 5-layer model, EI construction, 12 testable predictions
