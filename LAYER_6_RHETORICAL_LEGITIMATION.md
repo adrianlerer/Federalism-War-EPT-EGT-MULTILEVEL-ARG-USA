@@ -32,8 +32,36 @@ The argument appears in various forms across contexts, typically structured as:
 
 In Argentina, this is captured by the slogan **"Robaron, pero hicieron"** ("They stole, but they built") — acknowledging corruption while claiming it served a higher purpose.
 
-### 1.2 Logical Structure
+### 1.2 The Counter-Frame: Sowell's "Envy + Rhetoric" Critique
 
+**The Conservative/Libertarian Response**:
+
+Thomas Sowell (1999, 2011) provides the sharpest critique of "social justice" rhetoric as a legitimation device for extraction:
+
+> **"Envy plus rhetoric equals 'social justice'."**  
+> — Thomas Sowell, *The Thomas Sowell Reader* (2011), p. 399
+
+**Sowell's Core Argument** (*The Quest for Cosmic Justice*, 1999):
+1. **"Social justice" is a rhetorical weapon**: It personalizes outcomes from impersonal processes (markets, genetics, geography) to justify political redistribution
+2. **Cosmic justice vs. traditional justice**: Traditional justice = impartial processes (fair trial, equal rules); Cosmic justice = equalizing outcomes regardless of process
+3. **Unintended costs ignored**: "In its pursuit of justice for a segment of society, in disregard of the consequences for society as a whole, what is called 'social justice' might more accurately be called **anti-social justice**, since what consistently gets ignored or dismissed are precisely the costs to society."
+4. **Hypocrisy of the "anointed"**: Elites who preach "social justice" bear none of the costs (crime, dependency, lost opportunity) imposed on those they claim to help
+5. **Freedom vs. equality trade-off**: "A society that puts equality—in the sense of equality of outcome—ahead of freedom will end up with neither equality nor freedom."
+
+**Key Implications for Clientelism**:
+- Brienza's "corruption democratizes politics" = **classic example** of Sowell's "envy + rhetoric"
+- PSOE's "justicia social" subsidies = **cosmic justice** (correcting market "inequalities" through pre-electoral transfers)
+- Minnesota DFL's "humanitarian responsibility" = **rhetorical camouflage** for cross-level clientelism
+
+**The Symmetric Debate**:
+- **Left (Brienza)**: Corruption is necessary evil to compete with wealthy elites
+- **Right (Sowell)**: "Social justice" rhetoric masks extraction and avoids accountability for costs
+
+This creates a **rhetorical equilibrium**: Each side accuses the other of hypocrisy while defending its own extraction as morally necessary.
+
+### 1.3 Logical Structure
+
+**Pro-Clientelism Logic** (Brienza):
 ```
 Premise 1: Electoral competition requires resources (money, organization, media)
 Premise 2: Economic elites have vastly superior private resources
@@ -42,6 +70,17 @@ Premise 4: Extraction by popular movements serves collective goals (redistributi
 Premise 5: Extraction by elites serves private enrichment
 ---
 Conclusion: Extracting state resources is morally justified when done for "the people"
+```
+
+**Anti-Clientelism Logic** (Sowell):
+```
+Premise 1: "Social justice" personalizes outcomes from impersonal processes (markets, luck)
+Premise 2: Political redistribution requires coercion (taxes, regulations, mandates)
+Premise 3: Coercion destroys freedom and creates dependency
+Premise 4: Elites who preach "social justice" bear none of the costs (crime, lost jobs)
+Premise 5: Victims of "social justice" policies cannot opt out
+---
+Conclusion: "Social justice" rhetoric masks extraction and avoids accountability
 ```
 
 ### 1.3 Reality Filter: Sources
@@ -392,12 +431,15 @@ Payoff(DiffCorr | population uses DiffCorr) > Payoff(Liberal Frame | population 
 1. **Brienza, Hernán** (2016). "¿Y si hablamos de corrupción en serio?" *Tiempo Argentino*, May 22. Retrieved from https://www.tiempoar.com.ar/ta_article/y-si-hablamos-de-corrupcion-en-serio/ [✅ Verified — PRIMARY SOURCE]
    - Key quote: "La corrupción democratiza de forma espeluznante a la política"
    - Additional media coverage: TN, Clarín, Infobae (2016) [✅ Verified]
-2. **Netnews** (2016). *"Robaron, pero hicieron"*. Retrieved from https://netnews.com.ar/nota/2384 [✅ Verified]
-3. **Mare** (2025). *Cleptocracia y honestismo: El fenómeno de la corrupción desde una mirada anticapitalista*. Kalewche. Retrieved from http://kalewche.com/wp-content/uploads/2025/12/5-MARE-Cleptocracia-y-honestismo.pdf [✅ Verified]
-4. **PSOE** (2016). *Compromisos para un Sí al Cambio*. Retrieved from https://www.psoe.es/media-content/2016/06/COMPROMISOS-PARA-UN-S%C3%8D-AL-CAMBIO-240616.pdf [✅ Verified]
-5. **Alinsky, Saul** (1971). *Rules for Radicals*. Vintage. [✅ Verified]
-6. **Laclau, Ernesto** (2005). *On Populist Reason*. Verso. [✅ Verified]
-7. **Mouffe, Chantal** (2018). *For a Left Populism*. Verso. [To be consulted]
+2. **Sowell, Thomas** (1999). *The Quest for Cosmic Justice*. Free Press / Hoover Institution. [✅ Verified — PRIMARY SOURCE]
+   - Key quote: "Envy plus rhetoric equals 'social justice'" (2011, *The Thomas Sowell Reader*, p. 399)
+   - Key argument: "Social justice might more accurately be called anti-social justice"
+3. **Netnews** (2016). *"Robaron, pero hicieron"*. Retrieved from https://netnews.com.ar/nota/2384 [✅ Verified]
+4. **Mare** (2025). *Cleptocracia y honestismo: El fenómeno de la corrupción desde una mirada anticapitalista*. Kalewche. Retrieved from http://kalewche.com/wp-content/uploads/2025/12/5-MARE-Cleptocracia-y-honestismo.pdf [✅ Verified]
+5. **PSOE** (2016). *Compromisos para un Sí al Cambio*. Retrieved from https://www.psoe.es/media-content/2016/06/COMPROMISOS-PARA-UN-S%C3%8D-AL-CAMBIO-240616.pdf [✅ Verified]
+6. **Alinsky, Saul** (1971). *Rules for Radicals*. Vintage. [✅ Verified]
+7. **Laclau, Ernesto** (2005). *On Populist Reason*. Verso. [✅ Verified]
+8. **Mouffe, Chantal** (2018). *For a Left Populism*. Verso. [To be consulted]
 
 ### 8.2 Unverified (Do NOT Cite Directly)
 
