@@ -44,6 +44,36 @@ Traditional theories of redistribution focus on income inequality (Meltzer & Ric
 
 ---
 
+## BOX 1: WEF Global Risks Survey (Jan 2026) — External Validation
+
+**Inequality as the Most Interconnected Risk**
+
+The World Economic Forum's *Global Risks Perception Survey 2025-2026* (published January 2026) identifies **inequality** as the single most interconnected risk in the global system, directly linked to:
+- Economic downturn
+- Societal polarization
+- Involuntary migration or displacement
+- Decline in health and well-being
+- Lack of economic opportunity or unemployment
+- Insufficient public infrastructure and social protections
+
+**Relevance to Our Framework**:
+
+This network diagram **empirically validates** our theoretical prediction from Layer 6 (Rhetorical Legitimation): when elite resource advantage (α) is high, rhetorical frames legitimating extraction ("social justice," "humanitarian responsibility") achieve maximum memetic fitness because they exploit zero-sum thinking about inequality.
+
+**Three Key Connections**:
+
+1. **Inequality → Societal Polarization** (WEF): Our framework predicts this in Section 5.8 (Minnesota) and Section 6 (Argentina). Clientelistic extraction creates beneficiaries (Somali refugees, villa residents) vs. taxpayers (rural Minnesotans, suburban Argentines), amplifying us-vs-them dynamics.
+
+2. **Inequality → Involuntary Migration** (WEF): Our Minnesota case (Section 5.2) demonstrates how federal refugee resettlement—a humanitarian response to involuntary migration—becomes a **cross-level clientelistic tool** when state governments amplify federal funding to construct electoral bases.
+
+3. **Inequality → Insufficient Public Infrastructure** (WEF): Our cases show extraction from infrastructure investment: Spain prioritizes €1.5B foreign rail credits over domestic maintenance (Adamuz crash, 40 dead); Argentina expands puntero networks while villa infrastructure deteriorates; Minnesota funds refugee services while rural roads crumble.
+
+**Implication**: The WEF survey confirms that the **structural conditions** enabling clientelism (high inequality, polarization, migration crises) are **intensifying globally** as of January 2026, not receding. Our paper provides the analytical tools to understand how these macro-trends translate into micro-level extractive strategies.
+
+**Source**: World Economic Forum, *Global Risks Perception Survey 2025-2026*, January 2026. Retrieved from https://www.weforum.org/stories/2026/01/ciberriesgos-en-2026/ [✅ Verified]
+
+---
+
 ## BOX 2: Minnesota as the Archetype of Cross-Level Clientelism
 
 **The Federal-State War Over Demographic Base Construction**
