@@ -11,3 +11,5 @@ Fri Jan 23 04:37:44 UTC 2026: Completed Section 3 draft v1 (7,200 words) - Forma
 Fri Jan 23 04:49:42 UTC 2026: Creating Box 2 - Minnesota as archetype of cross-level clientelism (federal-state war)
 Fri Jan 23 04:55:03 UTC 2026: Starting Section 5 (Minnesota Case Study) - 4,000 words, cross-level clientelism empirical anchor
 Fri Jan 23 05:03:52 UTC 2026: Creating Layer 6 - Rhetorical Legitimation analysis
+Fri Jan 23 05:09:45 UTC 2026: Committed Layer 6 analysis - 3,850 words, Propositions 15-16, H7-H8
+Fri Jan 23 05:14:02 UTC 2026: VERIFIED Brienza quote - updating Layer 6 with primary source (Tiempo Argentino 2016)
