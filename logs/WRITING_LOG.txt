@@ -9,3 +9,5 @@ Fri Jan 23 04:32:42 UTC 2026: Analyzing ssrn-5958614.pdf (Lex Informatica/Algori
 Fri Jan 23 04:34:11 UTC 2026: Starting Section 3 (Theoretical Framework) - 10 pages, formalizing 5-layer model + EI + ESS
 Fri Jan 23 04:37:44 UTC 2026: Completed Section 3 draft v1 (7,200 words) - Formalized 5-layer model, EI construction, 12 testable predictions
 Fri Jan 23 04:49:42 UTC 2026: Creating Box 2 - Minnesota as archetype of cross-level clientelism (federal-state war)
+Fri Jan 23 04:55:03 UTC 2026: Starting Section 5 (Minnesota Case Study) - 4,000 words, cross-level clientelism empirical anchor
+Fri Jan 23 05:03:52 UTC 2026: Creating Layer 6 - Rhetorical Legitimation analysis
