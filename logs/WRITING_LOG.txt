@@ -27,3 +27,5 @@ Integration Plan:
 4. Institutional Friction (Constitutional Paper) → Section 5.8 (Comparative), Table 6
 
 Priority: Integrate before writing Section 6 (Argentina) to maximize synergy
+Fri Jan 23 08:17:50 UTC 2026: Integrated Type C clientelism - tolerance as complementary extraction (Box 4 + 5.10)
+Fri Jan 23 10:05:14 UTC 2026: Starting Section 6 (Argentina Cases) - target 7,000 words, integrating all prior concepts
