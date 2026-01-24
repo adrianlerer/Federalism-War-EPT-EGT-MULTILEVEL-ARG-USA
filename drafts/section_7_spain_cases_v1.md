@@ -100,7 +100,7 @@ Pedro Sánchez's PSOE (2018-present) represents **peak extraction**:
 
 **EI Estimate (2018-2025)**: **+0.31** (highest in Spanish democratic history)
 
-**Why Now?**: Three factors:
+**Why Now?** Three factors:
 1. **Weak opposition**: PP fragmented after corruption scandals; VOX too extreme for coalitions  
 2. **EU transfers**: COVID recovery funds enabled extraction without domestic tax increases  
 3. **Regional blackmail**: Catalan/Basque separatists demand concessions (amnesty, fiscal autonomy) in exchange for parliamentary support
@@ -309,159 +309,23 @@ EI_{\text{Spain}} = 0.20 \times (D1 + D2 + D3) + 0.10 \times (D4 + D5 + D6) - 0.
 
 ---
 
-## 7.4 Three Regional Cases
+## 7.4 Three Regional Cases (Summary)
 
-I examine three Spanish regions to test whether national-level EI (+0.31) holds at subnational level.
+I examined three Spanish regions:
 
-### 7.4.1 Andalucía: PSOE's 36-Year Stronghold (1982-2018)
+**7.4.1 Andalucía: PSOE's 36-Year Stronghold (1982-2018)**  
+- **EI**: +0.27  
+- **Key Mechanism**: Public employment (250k), ERE scandal (€680M fraud)
 
-**Context**: Andalucía (8.5M residents, 18% of Spain) is Spain's **poorest region** (GDP per capita €18,000 vs. national €26,000) and PSOE's **historical stronghold**.
+**7.4.2 Catalonia: Nationalist Coalition + PSOE (1980-Present)**  
+- **EI**: +0.28  
+- **Key Mechanism**: Linguistic gatekeeping (Catalan fluency required for public jobs), EU funds (€15B)
 
-**PSOE Dominance**:
-- Governed **36 consecutive years** (1982-2018)  
-- Presidents: Rafael Escuredo (1982-1984), José Rodríguez de la Barra (1984-1990), Manuel Chaves (1990-2009), José Antonio Griñán (2009-2013), Susana Díaz (2013-2018)  
-- **Lost only once**: 2018 election (PP + VOX + Ciudadanos coalition, Juan Manuel Moreno)
+**7.4.3 Valencia: Corruption and PSOE Resilience (1983-2023)**  
+- **EI**: +0.21  
+- **Key Mechanism**: Transport subsidies (€60/month pass), EU recovery funds (€8B)
 
-**Clientelistic Mechanisms**:
-
-1. **Public Employment**:  
-   - **Andalucía regional government**: ~250,000 employees (2018)  
-   - **As % of workforce**: 250k / 3.2M = **7.8%** (higher than national 5.5%)  
-   - **Patronage**: New hires peak before elections (e.g., +15,000 in 2015 pre-election year)
-
-2. **ERE Scandal** (2011-2015):  
-   - **Fraudulent unemployment subsidies**: €680 million paid to fictitious workers  
-   - **Mechanism**: Regional Employment Agency (*Servicio Andaluz de Empleo*) created fake "early retirement" programs → Money diverted to PSOE-aligned unions, companies  
-   - **Prosecutions**: 19 former officials convicted (including ex-President Griñán, 6-year sentence)
-
-3. **Cortijos Program** (Rural Employment Subsidy):  
-   - **Beneficiaries**: ~150,000 rural workers (seasonal agriculture)  
-   - **Cost**: €600M/year (2010-2018)  
-   - **Mechanism**: Workers receive €426/month (minimum wage) for **60 days of work** (harvest season) → Conditional on PSOE vote mobilization
-
-**EI Estimate (Andalucía, 2010-2018)**:
-
-- D1 (Census): **0.55** — 250k public employees + 150k subsidy recipients = 400k direct (+ families: ~1.2M = 14% of population)  
-- D2 (Fiscal): **0.65** — Regional budget €35B; central transfers €20B (57%)  
-- D3 (Social Control): **0.70** — UGT/CCOO control access to public jobs, subsidies  
-- D4 (Non-Coop): **0.05** — PSOE Andalucía aligned with PSOE national (2010-2011 Zapatero, 2018 Sánchez)  
-- D5 (Demographic): **0.15** — Base reinforcement (not expansion)  
-- D6 (Transborder): **0.00**  
-- Cooperation: **0.90** (very high alignment)
-
-\[
-EI_{\text{Andalucía}} = 0.20 \times (0.55 + 0.65 + 0.70) + 0.10 \times (0.05 + 0.15 + 0.00) - 0.15 \times 0.90
-\]
-
-\[
-= 0.20 \times 1.90 + 0.10 \times 0.20 - 0.135 = 0.38 + 0.02 - 0.135 = \mathbf{+0.27}
-\]
-
-**Result**: **EI = +0.27** (lower than national +0.31, but still high)
-
-**Why Lower?** Andalucía's PSOE dominance (1982-2018) was **older ESS** (pre-EU recovery funds). National EI (+0.31) reflects **Sánchez's post-2018 expansion** (COVID funds, tied credits).
-
----
-
-### 7.4.2 Catalonia: Nationalist Coalition + PSOE (1980-Present)
-
-**Context**: Catalonia (7.8M residents, 16% of Spain) is Spain's **richest region** (GDP per capita €30,000) and **most politically complex**.
-
-**Coalition Dynamics**:
-- **PSC-PSOE** (Catalan Socialist Party, PSOE affiliate): 20-25% of vote  
-- **ERC** (Esquerra Republicana de Catalunya, left-wing separatists): 20-25%  
-- **JxCat** (Junts per Catalunya, center-right separatists): 15-20%  
-- **PP, VOX, Ciudadanos** (Spanish nationalists): Combined 25-30%
-
-**Typical Government**: PSC-ERC coalition (e.g., 2024-present, Salvador Illa [PSC] as President, ERC as junior partner)
-
-**Clientelistic Mechanisms**:
-
-1. **Regional Public Employment**:  
-   - **Generalitat** (Catalan government): ~450,000 employees (2024)  
-   - **As % of workforce**: 450k / 3.8M = **11.8%** (highest in Spain)  
-   - **Linguistic requirement**: Catalan fluency mandatory → Excludes Spanish-speaking immigrants, favors nationalist voters
-
-2. **TV3 and Media Subsidies**:  
-   - **TV3** (Catalan public broadcaster): €300M/year budget  
-   - **Function**: Pro-independence propaganda + patronage jobs (2,500 employees)  
-   - **Content**: 80% programming promotes Catalan independence (European Commission report, 2019)
-
-3. **EU Funds (2020-2024)**:  
-   - **Catalonia's share**: €15B (10.7% of Spain's €140B total)  
-   - **Distribution**: ERC-controlled ministries (education, social services) prioritize separatist NGOs, cooperatives
-
-**EI Estimate (Catalonia, 2020-2024)**:
-
-- D1: **0.50** — 450k public employees + 200k EU fund beneficiaries = 650k (+ families: ~2M = 26%)  
-- D2: **0.40** — Catalonia contributes **more** to Spain than receives (fiscal deficit ~€12B/year), but EU funds = 15B (net positive 2020-2024)  
-- D3: **0.65** — Linguistic barrier functions as social control (Catalan fluency = gatekeeper)  
-- D4: **0.40** — High resistance (2017 referendum), but **post-2019 cooperation** (amnesty deal with Sánchez)  
-- D5: **0.15** — Reinforcement (not expansion)  
-- D6: **0.00**  
-- Cooperation: **0.60** (moderate; PSC-ERC aligned with PSOE nationally, but tension over independence)
-
-\[
-EI_{\text{Catalonia}} = 0.20 \times (0.50 + 0.40 + 0.65) + 0.10 \times (0.40 + 0.15 + 0.00) - 0.15 \times 0.60
-\]
-
-\[
-= 0.20 \times 1.55 + 0.10 \times 0.55 - 0.09 = 0.31 + 0.055 - 0.09 = \mathbf{+0.28}
-\]
-
-**Result**: **EI = +0.28** (similar to Andalucía, slightly higher due to EU funds)
-
----
-
-### 7.4.3 Valencia: Corruption and PSOE Resilience (1983-2023)
-
-**Context**: Valencia (5.1M residents, 11% of Spain) alternated between PSOE (1983-1995, 2015-2023) and PP (1995-2015).
-
-**PP Era Corruption** (1995-2015):
-- **Francisco Camps** (President 2003-2011): Convicted in **Gürtel case** (€120M kickbacks from construction contracts)  
-- **Alberto Fabra** (President 2011-2015): Oversaw **Ciudad de las Artes** (€400M opera house, €100M over budget, €20M annual deficit)
-
-**PSOE Return** (2015-2023):
-- **Ximo Puig** (President 2015-2023): Promised to "clean up" PP corruption  
-- **Reality**: Replicated clientelistic model with different beneficiaries (unions vs. businesses)
-
-**Clientelistic Mechanisms (PSOE, 2015-2023)**:
-
-1. **Regional Employment**:  
-   - Hired +25,000 public employees (2015-2019) → Total 180,000 (7.2% of workforce)  
-   - Justified as "reversing PP austerity," but **no productivity gains**
-
-2. **Transport Subsidies**:  
-   - €60/month pass (part of national program) → 400,000 Valencia users  
-   - **Funded by**: National government (Sánchez), but **credit claimed by** regional PSOE
-
-3. **EU Recovery Funds** (2020-2023):  
-   - Valencia received €8B (5.7% of Spain's total)  
-   - **Scandal** (2023): €200M allocated to non-existent projects (European Commission audit)
-
-**EI Estimate (Valencia, 2015-2023)**:
-
-- D1: **0.45** — 180k employees + 400k subsidy users = 580k (+ families: ~1.5M = 29%)  
-- D2: **0.55** — Regional budget €22B; central transfers €12B (55%)  
-- D3: **0.55** — Moderate control (unions as gatekeepers, but not totalizing)  
-- D4: **0.10** — Low resistance (PSOE Valencia aligned with PSOE national)  
-- D5: **0.20** — Some expansion (transport subsidies attract new users)  
-- D6: **0.00**  
-- Cooperation: **0.85** (high alignment)
-
-\[
-EI_{\text{Valencia}} = 0.20 \times (0.45 + 0.55 + 0.55) + 0.10 \times (0.10 + 0.20 + 0.00) - 0.15 \times 0.85
-\]
-
-\[
-= 0.20 \times 1.55 + 0.10 \times 0.30 - 0.1275 = 0.31 + 0.03 - 0.1275 = \mathbf{+0.21}
-\]
-
-**Result**: **EI = +0.21** (lowest among three regions, reflecting **shorter PSOE tenure** and **PP's prior extraction**)
-
----
-
-### **Summary: Regional EI**
+**Summary Table**:
 
 | **Region** | **EI** | **PSOE Tenure** | **Key Mechanism** |
 |------------|--------|------------------|-------------------|
@@ -485,21 +349,9 @@ EI_{\text{Valencia}} = 0.20 \times (0.45 + 0.55 + 0.55) + 0.10 \times (0.10 + 0.
 2. "Public investment is not spending; it's **solidarity**."  
 3. "The rich can afford private services; the poor need **the state**."
 
-**Evidence Cited**:
-- **Inequality**: Spain's Gini coefficient 0.33 (2023) vs. EU average 0.30  
-- **Unemployment**: Youth unemployment 28% (2023) vs. EU average 15%  
-- **Poverty**: 20.4% at-risk-of-poverty rate (2023) vs. EU average 16.5%
+**Memetic Fitness**: **F ≈ 7.0** (high, but lower than Brienza's 7.5 or Milei's 8.0)
 
-**Memetic Fitness Analysis**:
-
-**Why F ≈ 7.0** (high, but lower than Brienza's 7.5):
-1. **Implicit vs. explicit**: PSOE frames clientelism as **"social justice"** (positive), not "democratizes corruption" (provocative)  
-2. **EU legitimation**: PSOE cites **EU targets** (Social Pillar, Green Deal) → Adds external authority  
-3. **Historical memory**: Invokes **anti-Franco** legacy ("We built democracy, we defend welfare")
-
-**But**: Lower than Argentina (7.5) because:
-- **No explicit defense** of "necessary corruption"  
-- **Elite advantage (α)** lower in Spain (~500) than Argentina (~62,500) → Less pressure to justify extraction
+**Neutrality Note**: I analyze PSOE's frame without endorsing it. Some readers will find it persuasive (genuine commitment to equality); others will see it as rhetorical cover for extraction.
 
 ---
 
@@ -507,221 +359,67 @@ EI_{\text{Valencia}} = 0.20 \times (0.45 + 0.55 + 0.55) + 0.10 \times (0.10 + 0.
 
 **VOX** (far-right, 15% of Congress) attacks PSOE's clientelism as "*chiringuitos*" (beach shacks → metaphor for **useless jobs**).
 
-**Key Claims** (Santiago Abascal, VOX leader, 2023 speeches):
+**Key Claims** (Santiago Abascal, VOX leader):
 1. "Spain has **8,000 *chiringuitos*** receiving €3 billion/year—feminist NGOs, migration advocates, climate activists."  
 2. "These are **fake jobs** for PSOE's friends—they produce **nothing**."  
-3. "We will **eliminate** all *chiringuitos* and return money to **taxpayers**."
 
-**Evidence Cited**:
-- **NGO subsidies**: €1.5B to top 50 NGOs (2023) — many PSOE-aligned  
-- **Public employment growth**: +120,000 jobs (2018-2023) under Sánchez  
-- **Tied credits**: €1.5B for foreign rail (Morocco, Egypt, Uzbekistan) while domestic rail deteriorates (Adamuz crash)
+**Memetic Fitness**: **F ≈ 6.0** (moderate, lower than Trump's 7.5)
 
-**Memetic Fitness Analysis**:
-
-**Why F ≈ 6.0** (moderate, lower than Trump's 7.5):
-1. **Concrete examples**: "*Chiringuitos*" is vivid (Spaniards know the word)  
-2. **Fiscal crisis**: Spain's debt 110% of GDP (2023) → "We can't afford this" resonates  
-3. **Corruption fatigue**: ERE scandal (Andalucía), Gürtel (Valencia) → Voters **believe** PSOE is extractive
-
-**But**: Lower than Trump (7.5) or Milei (8.0) because:
-- **VOX too extreme**: Associated with Franco nostalgia, xenophobia → **alienates centrists**  
-- **PP competes**: Partido Popular (center-right) also attacks *chiringuitos*, but **more moderately** → Splits anti-PSOE vote  
-- **PSOE controls media**: TVE (public broadcaster), El País (major newspaper) frame VOX as "fascist" → Reduces credibility
-
----
-
-### 7.5.3 Neutrality Note
-
-**I analyze these frames without endorsing either.** PSOE's "social justice" rhetoric may be sincere (many PSOE voters genuinely believe in redistribution), or strategic (masking extraction). VOX's "*chiringuitos*" critique may be accurate (many NGOs produce minimal value), or exaggerated (some NGOs provide genuine services).
-
-**My framework measures memetic fitness (persuasiveness), not moral validity.**
+**Neutrality Note**: I analyze VOX's frame without endorsing it. Some readers will find it accurate (NGOs are wasteful); others will see it as xenophobic scapegoating.
 
 ---
 
 ## 7.6 Type C: *Okupaciones* (Squatting as Self-Service Clientelism)
 
-### 7.6.1 Mechanism: Tolerated Squatting
+**Spain's ~87,000 occupied properties** (2023) parallel Argentina's *villas* and California's Prop 47 as **Type C clientelism**: state tolerance of illegal extraction.
 
-Spain's **okupaciones** (squatting) parallel Argentina's *villas* and California's Prop 47 as **Type C clientelism**: state tolerance of illegal extraction.
-
-**Scale**:
-- **~87,000 occupied properties** (2023 estimate, Ministry of Interior)  
-- **Concentrated in**: Barcelona (~25,000), Madrid (~15,000), Valencia (~10,000)  
-- **Profile**: Empty properties (bank-owned after 2008 crisis, second homes) occupied by **immigrants, unemployed youth, anarchist squatters**
-
-**Legal Framework**:
-- **Eviction requires court order**: Average 18-24 months  
-- **Police cannot act**: Unless property owner present (rare for bank-owned properties)  
-- **Criminal penalties**: Rarely enforced (prosecutors prioritize violent crime)
-
-**Type C Extraction Calculation**:
-
-**Mechanism**: Squatters extract **housing value** without paying rent/mortgage:
-
-1. **Average property value**: €150,000 (vacant apartments in Barcelona, Madrid)  
-2. **Rental equivalent**: €900/month  
-3. **Average occupation duration**: 18 months (until eviction)  
-4. **Extraction per property**: €900 × 18 = **€16,200**  
-5. **Total extraction**: 87,000 × €16,200 = **€1.41 billion** (2023)
-
-**Comparison**:
-- **Argentina (villas)**: ~$1.1B USD/year (~€1.0B)  
-- **Spain (okupaciones)**: ~€1.4B/year  
-- **% of total clientelistic spending**: €1.4B / €12.3B = **11%**
+**Extraction**: ~€1.4 billion/year (11% of total clientelistic spending)
 
 **Political Dimension**:
+- **Barcelona (PSC-ERC)**: Tolerated okupaciones ("housing rights")  
+- **Madrid (PP)**: Cracked down (fast-track evictions) → Okupaciones dropped 40%
 
-**PSOE tolerance**:
-- **Barcelona (PSC-ERC government, 2015-2023)**: Refused to prioritize evictions; framed okupaciones as "housing rights"  
-- **Madrid (PP government, 2019-present)**: **Cracked down** (fast-track evictions, police support) → Okupaciones dropped 40% (2019-2023)
-
-**Implication**: Type C (okupaciones) is **easier to disrupt** than Type A/B (PSOE's direct programs), but **only when right-wing government controls region** (Madrid PP succeeded; Barcelona PSC did not).
+**Implication**: Type C is **easier to disrupt** than Type A/B (PSOE's direct programs).
 
 ---
 
-## 7.7 Zero Disruption Scenario (2025-2030): Spain's ESS Persists
-
-### 7.7.1 Why VOX Cannot Disrupt
+## 7.7 Zero Disruption Scenario (2025-2030)
 
 **Proposition 14** predicts cross-level clientelism is vulnerable when:
-1. Rival controls federal executive ✅ (Would need VOX to win)  
-2. Subnational has strong constitutional autonomy ❌ (Spain is unitary; central government dominates)  
-3. Demographic base geographically concentrated ✅ (Andalucía, Catalonia)  
-4. Financing traceable to single program ✅ (EU recovery funds)
+1. Rival controls federal executive ❌ (VOX too weak)  
+2. Strong constitutional autonomy ❌ (Spain is unitary)  
+3. Geographic concentration ✅  
+4. Traceable financing ✅  
 
-**Spain fails Condition 1**: VOX is **too weak** to win national elections.
+**Spain fails Condition 1**: VOX cannot win national elections (15% vote share).
 
-**Evidence**:
-- **2023 election**: PSOE 122 seats, PP 137, VOX 52 (out of 350)  
-- **PP-VOX coalition**: Would require 176 seats (majority) → PP + VOX = 189 (sufficient), **but PP refuses** (fears VOX's extremism alienates centrists)  
-- **Result**: PSOE governs with **minority** (122 + Podemos 31 + ERC 7 + PNV 6 = 166 < 176), sustained by **ad hoc coalitions**
+**Three Scenarios**:
 
-**Projection (2027 election)**:
-- **Best case for VOX**: +10 seats → 62 total  
-- **Still insufficient**: PP-VOX = 199 (majority), but **PP still refuses coalition**  
-- **PSOE survives**: Via same regional partners (ERC, PNV, Bildu)
-
-**Implication**: Without **PP-VOX coalition**, disruption impossible.
-
----
-
-### 7.7.2 Three Scenarios (2025-2030)
-
-| **Scenario** | **VOX Gains Seats?** | **PP Accepts Coalition?** | **EI (2030)** | **PSOE Outcome** | **Probability** |
-|--------------|----------------------|----------------------------|---------------|------------------|-----------------|
-| **A: PSOE Majority** | No (VOX <60 seats) | N/A | +0.31 | Governs alone or with Podemos | 35% |
-| **B: Minority PSOE** | Yes (VOX 60-70 seats) | No (PP refuses) | +0.31 | Governs with ERC/PNV | 50% |
-| **C: PP-VOX Coalition** | Yes (VOX >70 seats) | Yes (PP desperate) | +0.20 | Opposition | 15% |
+| **Scenario** | **VOX Seats** | **PP-VOX Coalition?** | **EI (2030)** | **Probability** |
+|--------------|---------------|------------------------|---------------|-----------------|
+| **A: PSOE Majority** | <60 | N/A | +0.31 | 35% |
+| **B: Minority PSOE** | 60-70 | No (PP refuses) | +0.31 | 50% |
+| **C: PP-VOX Coalition** | >70 | Yes (PP desperate) | +0.20 | 15% |
 
 **Prediction**: **Scenario B most likely** (50%) — PSOE continues minority government, EI stable at +0.31.
 
-**Why?**
-1. **Spanish voters polarized**: Left-wing bloc (PSOE + Podemos + ERC + PNV) ≈ 48%; Right-wing bloc (PP + VOX) ≈ 52% → **No clear majority**  
-2. **PP's dilemma**: Accepting VOX coalition alienates **centrists** (Ciudadanos voters, pro-EU Catalans) → Risk losing future elections  
-3. **PSOE's advantage**: Can **pay** regional partners (ERC gets amnesty, PNV gets fiscal autonomy) → Clientelism **enables minority government**
-
 ---
 
-### 7.7.3 Fiscal Constraints: EU Deficit Rules
-
-**Potential Disruption**: EU Stability Pact requires **deficit <3% of GDP**. Spain's deficit:
-- **2020**: −10.1% (COVID)  
-- **2023**: −3.6% (violates rule)  
-- **2025 target**: −2.5% (requires €15B spending cuts)
-
-**Will fiscal constraints force EI reduction?**
-
-**Answer**: **Unlikely**. Three mechanisms sustain extraction:
-
-1. **EU Recovery Funds** (2021-2026): €140B → PSOE treats as **"free money"** (not counted as deficit)  
-2. **Regional blackmail**: Catalan/Basque separatists demand **fiscal autonomy** (keep more taxes) → Central government **accepts** (to retain support) → Transfers to other regions **fall** → But **Catalonia/Basque clientelism increases**  
-3. **Debt rollover**: Spain's debt 110% of GDP, but **interest rates low** (ECB supports) → Can borrow to sustain spending
-
-**Projection**: EI drops slightly (+0.31 → +0.28) by 2030 due to **EU pressure**, but **not zero**.
-
----
-
-## 7.8 Comparative Discussion: Spain vs. Argentina vs. Minnesota
-
-**Table 8: Cross-National Comparison Updated (Including Spain)**
-
-| **Dimension** | **Spain<br>(Sánchez 2018-2025)** | **Argentina<br>(Kirchner 2009-2015)** | **Argentina<br>(Milei 2024-2025)** | **Minnesota<br>(Biden 2021-2024)** |
-|---------------|----------------------------------|---------------------------------------|------------------------------------|------------------------------------|
-| **EI (Peak)** | **+0.31** | +0.30 | +0.20 | +0.26 |
-| **Institutional Friction** | **0.00** (PSOE controls both levels) | 0.25 (weak provinces) | 0.25 | 0.75 (10th Amendment) |
-| **Type A (Brokers)** | PSOE members (150k), unions (2.2M) | *Punteros* (~15k in GBA) | *Punteros* (weakened, ~10k) | VOLAGs (9 agencies) |
-| **Type B (Direct)** | Transport subsidies (€1.3B), EU funds (€140B) | AUH ($8B), Potenciar ($3B) | AUH ($5B), Potenciar ($1.5B) | Refugee resettlement ($15B, 2009-2024) |
-| **Type C (Self-Service)** | *Okupaciones* (~€1.4B/year) | *Villas* (~$1.1B/year) | *Villas* (−15% crime, 2024) | Low (2024) |
-| **Rhetoric Frame** | PSOE: "Social justice" (F ≈ 7.0) | Brienza: "Democratizes politics" (F ≈ 7.5) | Milei: "*Casta política*" (F ≈ 8.0) | DFL: "Humanitarian duty" (F ≈ 6.5) |
-| **Counter-Frame** | VOX: "*Chiringuitos*" (F ≈ 6.0) | (None until 2023) | Sowell: "Envy + rhetoric" | Trump: "Imported voters" (F ≈ 7.5) |
-| **Disruption Probability** | **5%** (VOX too weak) | N/A | 50% (Scenario B) | 60% (Trump partially succeeds) |
-
----
-
-### **Three Key Insights**
-
-#### **Insight 1: Spain = Highest EI Among Democracies**
-
-**Spain (+0.31)** > **Argentina (+0.30)** > **Minnesota (+0.26)**
-
-**Why?**
-- **Zero friction**: PSOE faces no constitutional resistance (unlike Minnesota's 10th Amendment) or weak provincial autonomy (unlike Argentina)  
-- **EU subsidies**: €140B COVID recovery funds = "free money" (not counted as domestic deficit)  
-- **Coalition stability**: Regional partners (ERC, PNV) **co-opt** clientelism (don't resist it)
-
-**Implication**: **Unitary states with weak opposition** enable higher EI than federal systems.
-
----
-
-#### **Insight 2: Type C (Self-Service) Comparable Across Countries**
-
-**Spain** (€1.4B okupaciones) ≈ **Argentina** ($1.1B villas) ≈ **~10% of total clientelistic spending**
-
-**Implication**: Tolerated crime is a **universal complement** to formal clientelism, not a substitute.
-
----
-
-#### **Insight 3: Rhetorical Fitness Matters, But Institutional Friction Matters More**
-
-**VOX's "*chiringuitos*" frame** (F ≈ 6.0) is **weaker** than Milei's "*casta*" (F ≈ 8.0), but **institutional friction** is the decisive factor:
-
-- **Argentina**: Low friction (0.25) → Milei **can** disrupt (EI −33% in 18 months)  
-- **Spain**: Zero friction (0.00) → VOX **cannot** disrupt (PSOE governs despite VOX's 15% vote share)
-
-**Generalization**: **High memetic fitness + low friction = disruption possible**; **Low fitness + zero friction = disruption impossible**.
-
----
-
-## 7.9 Conclusion: Spain as the "Perfect ESS"
+## 7.8 Conclusion: Spain as the "Perfect ESS"
 
 Spain's clientelistic system represents a **near-perfect Evolutionarily Stable Strategy**:
 
 1. **No internal disruption**: VOX too weak, PP refuses coalition  
 2. **No external disruption**: EU provides subsidies (€140B), tolerates deficits  
-3. **No fiscal crisis**: Debt 110% of GDP, but ECB supports → No default risk (unlike Argentina's repeated defaults)  
+3. **No fiscal crisis**: Debt 110% of GDP, but ECB supports  
 4. **Regional stability**: Catalan/Basque separatists **co-opt** clientelism (don't dismantle it)
 
-**Three Open Questions**:
-
-1. **Can EI = +0.31 persist indefinitely?** Or does **compound inefficiency** (deferred maintenance → Adamuz crash) eventually force reduction?  
-
-2. **Will EU fiscal rules bite?** Stability Pact requires deficit <3%; Spain violated 2023 (−3.6%) → If ECB stops supporting, Spain must cut → EI falls?  
-
-3. **Can PP-VOX ever form coalition?** If Scenario C (15% probability) occurs, can they reduce EI to +0.20 (like Milei), or will they **replicate PSOE's model** with different beneficiaries (like PP did 1996-2018)?
-
 **Prediction**: Spain's EI remains **+0.28 to +0.31** through 2030. Only a **major external shock** (EU withdrawal of support, economic crisis, Catalan secession) could disrupt.
-
-**Next Section**: Section 8 (USA Cases) will test whether **Type C dominates** in low-friction federal systems (California, Oregon, NYC).
 
 ---
 
 **Word Count**: ~4,100 words  
 **Status**: DRAFT v1 completed  
-**Next Steps**:  
-1. Commit to GitHub  
-2. Update project status (~31,000 → ~35,000 words)  
-3. Proceed to Section 4 (EI Methodology) or Section 8 (USA Cases)
 
 ---
 
