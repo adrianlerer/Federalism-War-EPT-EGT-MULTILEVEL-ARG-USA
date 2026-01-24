@@ -46,39 +46,39 @@ Traditional theories of redistribution focus on income inequality (Meltzer & Ric
 
 ## 1.2 Methodological Commitment: Positive vs. Normative Analysis
 
-**This paper adopts a strictly positive (descriptive) approach to clientelism.** We analyze **how** clientelistic systems function and **why** they persist as evolutionary stable strategies, not whether they **should** exist or which political actors are "right" or "wrong."
+**This paper adopts a strictly positive (descriptive) approach to clientelism.** I analyze **how** clientelistic systems function and **why** they persist as evolutionary stable strategies, not whether they **should** exist or which political actors are "right" or "wrong."
 
 ### Three Core Commitments:
 
 **1. Symmetry Across Political Spectrum**
 
-Our framework applies equally to:
+My framework applies equally to:
 - **Left-wing clientelism**: Kirchnerismo (Argentina), PSOE (Spain), DFL (Minnesota)
 - **Right-wing clientelism**: Provincial caudillos (San Luis, Formosa), Trump's proposed disruptions
 - **Type C (tolerated crime)**: Argentine villas, California's Prop 47, Spain's okupaciones
 
-We analyze Javier Milei's disruption of Kirchnerist punteros (Argentina) with the same analytical tools we use for Donald Trump's proposed disruption of Minnesota's refugee networks. Neither analysis implies endorsement or condemnation.
+I analyze Javier Milei's disruption of Kirchnerist punteros (Argentina) with the same analytical tools I use for Donald Trump's proposed disruption of Minnesota's refugee networks. Neither analysis implies endorsement or condemnation.
 
 **2. No Normative Claims**
 
-We do NOT argue that:
+I do NOT argue that:
 - Clientelism is "good" or "bad" (ethical question beyond scope)
 - Any specific disruption (Milei, Trump) is "desirable" or "undesirable" (political preference)
-- Programmatic redistribution is "superior" or "inferior" to clientelistic extraction (requires welfare analysis we do not conduct)
+- Programmatic redistribution is "superior" or "inferior" to clientelistic extraction (requires welfare analysis I do not conduct)
 - Any party, politician, or policy is morally justified or unjustified
 
 **3. Empirical Falsifiability**
 
-Our claims are testable:
+My claims are testable:
 - **Proposition 14**: Cross-level clientelism is most vulnerable when four institutional conditions hold → testable via 2026-2027 natural experiments (Minnesota, Argentina)
 - **Hypothesis H7**: Higher elite advantage (α) correlates with more explicit rhetorical defenses of extraction → testable via systematic text analysis
-- **EI calculations**: Replicable using our open-source methodology (Section 4)
+- **EI calculations**: Replicable using my open-source methodology (Section 4)
 
-### What We ARE Doing
+### What I AM Doing
 
-Explaining why clientelism persists despite widespread public disapproval, using evolutionary game theory and extended phenotype analysis. Our contribution is **explanatory power**: why do voters continue supporting systems they claim to oppose?
+Explaining why clientelism persists despite widespread public disapproval, using evolutionary game theory and extended phenotype analysis. My contribution is **explanatory power**: why do voters continue supporting systems they claim to oppose?
 
-### What We Are NOT Doing
+### What I Am NOT Doing
 
 - Advocating for any party, policy, or politician
 - Making recommendations about which systems are "better"
@@ -86,12 +86,12 @@ Explaining why clientelism persists despite widespread public disapproval, using
 
 ### Expected Reader Response
 
-Readers across the political spectrum should find our analysis **useful but uncomfortable**:
-- **Left-leaning readers** may object to our framing of PSOE/DFL/Kirchner programs as "clientelistic extraction"
-- **Right-leaning readers** may object to our symmetrical treatment of Trump/Milei disruptions as potentially clientelistic themselves
-- **Centrist readers** may find our ESS framework too deterministic ("clientelism is inevitable")
+Readers across the political spectrum should find my analysis **useful but uncomfortable**:
+- **Left-leaning readers** may object to my framing of PSOE/DFL/Kirchner programs as "clientelistic extraction"
+- **Right-leaning readers** may object to my symmetrical treatment of Trump/Milei disruptions as potentially clientelistic themselves
+- **Centrist readers** may find my ESS framework too deterministic ("clientelism is inevitable")
 
-**Our response**: Discomfort is evidence the analysis is working. If only one political faction finds our framework objectionable, we have failed to maintain analytical symmetry.
+**My response**: Discomfort is evidence the analysis is working. If only one political faction finds my framework objectionable, I have failed to maintain analytical symmetry.
 
 ### Precedents in Value-Neutral Analysis
 
