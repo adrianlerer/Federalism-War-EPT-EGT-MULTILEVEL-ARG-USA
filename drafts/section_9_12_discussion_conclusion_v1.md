@@ -178,7 +178,7 @@ By design, this paper **does not prescribe** which systems are "better." This li
 
 ### 12.1 Core Contribution
 
-This paper develops a **unified framework** for understanding clientelistic extraction in federal democracies, synthesizing evolutionary game theory (Maynard Smith 1982), extended phenotype analysis (Dawkins 1982), negotiation theory (Fisher & Ury 1981), cognitive science (Dennett 1995, 2017), and institutional economics (Acemoglu & Robinson 2012, North 1990). The framework explains three puzzles traditional theories cannot:
+This paper **attempts to develop** a **unified framework** for understanding clientelistic extraction in federal democracies, synthesizing evolutionary game theory (Maynard Smith 1982), extended phenotype analysis (Dawkins 1982), negotiation theory (Fisher & Ury 1981), cognitive science (Dennett 1995, 2017), and institutional economics (Acemoglu & Robinson 2012, North 1990). The framework **seeks to explain** three puzzles traditional theories **struggle to address**:
 
 1. **Geographic concentration**: Why clientelism clusters in specific subnational units (Buenos Aires Province, Hennepin County, Andalusia) rather than distributing by income or ideology.
 2. **Institutional persistence**: Why clientelistic networks survive economic crises, political alternation, and targeted dismantling.
@@ -218,9 +218,9 @@ Test whether mercantilism **enables** clientelism (M → C), clientelism **requi
 
 On December 24, 2025, Spain announced a €1.3 billion universal transport subsidy. Twenty-six days later, a train crash killed over 40 passengers, exposing years of deferred maintenance. The same government had approved €1.5 billion in foreign rail credits. This is not random—it is **clientelistic extraction** optimizing for electoral survival, not aggregate welfare.
 
-Understanding **why** democracies make these choices requires moving beyond moral outrage ("corruption!") or ideological slogans ("social justice!"). It requires **structural analysis**: fiscal federalism (Section 3.1), evolutionary stability (Section 3.2), phenotypic construction (Section 3.3), and rhetorical legitimation (Layer 6). The framework developed in this paper provides the analytical tools.
+Understanding **why** democracies make these choices requires moving beyond moral outrage ("corruption!") or ideological slogans ("social justice!"). It requires **structural analysis**: fiscal federalism (Section 3.1), evolutionary stability (Section 3.2), phenotypic construction (Section 3.3), and rhetorical legitimation (Layer 6). The framework developed in this paper **attempts to provide** the analytical tools.
 
-**My contribution is explanatory, not prescriptive.** I have shown **why** clientelism persists despite widespread disapproval, **how** it adapts to survive reform attempts, and **when** it becomes vulnerable to disruption. Whether these systems **should** be reformed—and if so, for whose benefit—are normative questions beyond my scope. But clarity on the **how** and **why** must precede debates about the **ought**.
+**My contribution seeks to be explanatory, not prescriptive.** I have **attempted to show why** clientelism persists despite widespread disapproval, **how** it adapts to survive reform attempts, and **when** it becomes vulnerable to disruption. Whether these systems **should** be reformed—and if so, for whose benefit—are normative questions beyond my scope. But clarity on the **how** and **why** must precede debates about the **ought**.
 
 The Minnesota crisis (January 2025–2026), Argentina's Milei disruption (2024–2025), and Spain's zero-disruption scenario (2024–2026) provide **natural experiments** to test the framework over the next 24 months. If Proposition 14 holds, Minnesota's Democratic margins will compress (−0.6pp statewide, −2.3pp Hennepin) but not collapse; Argentina's provinces will resist Milei via congressional obstruction; Spain's PSOE will maintain dominance. If the framework fails, these predictions will be falsified.
 
