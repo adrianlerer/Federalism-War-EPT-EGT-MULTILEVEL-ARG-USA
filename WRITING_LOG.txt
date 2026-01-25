@@ -14,3 +14,22 @@
 - **Words**: Section 1: 4,800 → 6,087 (+1,287)
 - **Total Project**: ~34,000 → ~35,300 words
 
+
+---
+## 2026-01-25 | Session 5 | Section 4 Complete
+- **Section 4: Methodology — Extraction Index (EI)** (~2,087 words)
+- **Structure**:
+  - 4.1 Introduction: Why quantitative measure needed (~200 words)
+  - 4.2 Six Dimensions (D1–D6): Fiscal transfers, employment networks, geographic concentration, demographic targeting, institutional formalization, cross-level extraction (~1,000 words)
+  - 4.3 Cooperation Parameter (γ): +1 (cooperation), 0 (independence), −1 (war) (~200 words)
+  - 4.4 Formula and Weighting: EI = Σ(wi × Di) + γ; normalization [−1, +2] (~300 words)
+  - 4.5 Cross-Validation: Correlation with V-Dem (r=0.68), TI CPI (r=−0.54); robustness to weighting (~300 words)
+- **Key Calculations**:
+  - La Matanza ARG: EI +0.57 (D1=3.75%, D2=667/100k, D4=57%)
+  - Minnesota USA: EI +0.26 (D1=0.26%, D2=11/100k, D4=6.6% statewide / 22% Hennepin)
+  - Spain (Andalusia): EI +0.31 (D1=1.60%, D2=47/100k, D4=36%)
+  - Formosa ARG: EI +0.63 (highest; D4=66% population dependent)
+- **Falsifiability**: All calculations replicable using public data (census, budgets, electoral returns)
+- **Words**: Section 4: 2,087
+- **Total Project**: ~35,500 → ~37,600 words
+
