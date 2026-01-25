@@ -59,3 +59,20 @@
 - **Words**: Sections 9-12: 3,589
 - **Total Project**: ~38,700 → **42,316 words** (COMPLETE)
 
+
+---
+## 2026-01-25 | Session 7 | Stanley & Lehman Integration
+- **Added**: Section 9.3.5 "The Objective Trap: Why Explicit Goals Block Reform" (~1,400 words)
+- **Source**: Stanley, K. O., & Lehman, J. (2015). *Why Greatness Cannot Be Planned: The Myth of the Objective*. Springer.
+- **Core Argument**: Explicit objectives create deceptive local optima, trigger counter-adaptations, and freeze stepping stones
+- **Applied to Clientelism**:
+  - Argentina: Macri's explicit anti-corruption campaign → provincial resistance, EI −0.05 (insufficient)
+  - Spain: PP denounced caciques → replicated networks (local optimum)
+  - Minnesota: Trump explicit deportation objective → $200M state resistance
+  - Contrast: Obama/Biden (2009-2024) built refugee network via stepping stones (humanitarian programs) without declaring demographic objective
+- **Implication**: Open-ended reform (fiscal transparency, judicial independence, campaign finance) might reduce clientelism as side effect better than explicit "end clientelism" campaigns
+- **Connection to Framework**: ESS (Section 9.3) + deceptive objectives (Stanley & Lehman) = lethal combination making reform fail
+- **Future Research**: Test whether transparency reforms (stepping stones) reduce EI more than anti-corruption commissions (explicit objectives)
+- **Words**: Section 9: +1,400 → ~3,200 total
+- **Total Project**: ~41,600 → ~43,000 words
+
