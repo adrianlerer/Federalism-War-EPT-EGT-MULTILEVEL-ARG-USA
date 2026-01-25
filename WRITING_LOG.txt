@@ -1,0 +1,16 @@
+
+---
+## 2026-01-25 | Session 4 | Section 1.3 Added
+- **Added**: Section 1.3 "Beneath Positions: The Evolutionary Arms Race of Power" (~1,300 words)
+- **Integrated**:
+  - Fisher & Ury (1981): Positions vs. Interests (anti-corruption rhetoric = positional; state resource control = interest)
+  - Dawkins (1976, 1982): Evolutionary arms race (predator-prey coevolution) + Extended Phenotype (punteros/chiringuitos/VOLAGs as state tools, not parasites)
+  - Dennett (1995, 2017): Cui bono? (who actually benefits) + Means-Ends Paradox (clientelistic networks co-opt original redistributive goals)
+- **Methodological Clarification**: Framework applies symmetrically to left-wing (Kirchnerismo, PSOE, DFL) and right-wing (Milei, Trump, VOX) populisms
+- **Terminological Precision**:
+  - Spain: chiringuitos (public patronage agencies)
+  - Argentina: kioskos (informal rent extraction points) + "Robo para la corona" (stealing for the movement, not personal enrichment)
+  - US: VOLAGs (resettlement contractors)
+- **Words**: Section 1: 4,800 → 6,087 (+1,287)
+- **Total Project**: ~34,000 → ~35,300 words
+

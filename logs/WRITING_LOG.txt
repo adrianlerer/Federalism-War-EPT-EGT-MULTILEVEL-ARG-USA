@@ -34,3 +34,4 @@ Sat Jan 24 12:29:41 UTC 2026: Added neutrality disclaimer (Section 1.2) - 600 wo
 Sat Jan 24 12:34:14 UTC 2026: Section 7 complete - 4,100 words, Spain as 'perfect ESS' (EI +0.31, highest among democracies)
 Sat Jan 24 12:42:34 UTC 2026: Section 7 complete - 4,100 words, EI = +0.31, Spain as perfect ESS (control case)
 Sat Jan 24 12:46:06 UTC 2026: Section 7 complete - 4,100 words, EI = +0.31 (highest among democracies), zero disruption scenario
+Sun Jan 25 08:50:44 UTC 2026: Section 5 updated with real-time validation - 3 shootings (Jan 7, 14, 24), 2 deaths, Scenario C confirmed
