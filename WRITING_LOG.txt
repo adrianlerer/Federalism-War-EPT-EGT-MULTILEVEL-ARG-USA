@@ -33,3 +33,29 @@
 - **Words**: Section 4: 2,087
 - **Total Project**: ~35,500 → ~37,600 words
 
+
+---
+## 2026-01-25 | Session 6 | PAPER COMPLETE — Sections 9-12
+- **Sections 9-12: Discussion, Policy Implications, Limitations, Conclusion** (~3,589 words)
+- **Section 9: Discussion** (~1,800 words)
+  - 9.1 Clientelism as Extractive Institution (Acemoglu & Robinson 2012): Concentration, crowding out investment, blocking reform
+  - 9.2 Mercantilism-Clientelism Nexus: Three hypotheses (M→C, C→M, M↔C feedback loop)
+  - 9.3 Evolutionary Stability: Why reform fails; Dawkins arms race + Dennett means-ends inversion
+  - 9.4 Real-Time Validation: Minnesota Scenario C confirmed 48h after prediction (Jan 23-25, 2026)
+- **Section 10: Policy Implications** (~1,000 words)
+  - 10.1 For Policymakers: Six intervention points (D1-D6), trade-offs
+  - 10.2 For Scholars: Testable propositions (Prop 14, H7, Prop 17, Prop 18)
+  - 10.3 For Citizens: Why voting for "honest" politicians insufficient; structural reform needed
+- **Section 11: Limitations** (~500 words)
+  - 11.1 Data availability (Argentina punteros, Minnesota federal funding estimates)
+  - 11.2 Type C clientelism excluded (villas, okupaciones, Prop 47)
+  - 11.3 Endogeneity and selection bias
+  - 11.4 Normative neutrality limits policy guidance
+- **Section 12: Conclusion** (~300 words)
+  - Core contribution: Unified framework (EGT + extended phenotype + Fisher & Ury + Dennett + Acemoglu & Robinson)
+  - Future research: Causal identification (IV/RD), Type C index, mercantilism-clientelism causality
+  - Final reflection: Falsifiable predictions (Minnesota, Argentina, Spain) testable Nov 2026
+- **Key Integration**: Acemoglu & Robinson extractive institutions + mercantilism feedback loop (Hypothesis C: M↔C)
+- **Words**: Sections 9-12: 3,589
+- **Total Project**: ~38,700 → **42,316 words** (COMPLETE)
+
