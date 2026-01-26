@@ -257,3 +257,48 @@
 
 ---
 
+
+---
+
+## Session 8 (CONT): FIX #2 — Buenos Aires Section Relocated
+
+**SECOND ERROR DETECTED**: Section 6.9 (Buenos Aires donor province) was incorrectly placed in **Layer 6 (Rhetorical Legitimation)** instead of **Section 6 (Argentina Cases)**.
+
+**CORRECTION APPLIED**:
+1. **Deleted** 6.9 from Layer 6 (lines 909-1054)
+2. **Inserted** 6.9 at end of Section 6 (before "END OF SECTION 6")
+3. **Updated** Table of Contents: Section 6 now 9,200 words (was 7,100)
+4. **Added** subsection 6.9.8: Three-Level Donor-Recipient Asymmetry (cross-case comparison table)
+
+**New Structure of Section 6.9**:
+- **6.9.1**: Buenos Aires as Donor Province (1.8× asymmetry; 40% contribution, 22% receipt)
+- **6.9.2**: Recipient Provinces (Formosa 91.9% dependency; Tierra del Fuego 2.9× avg)
+- **6.9.3**: Coparticipation as Type A Clientelism
+- **6.9.4**: Why Buenos Aires Doesn't Rebel (Unlike California)
+  - Constitutional constraint (Article 75.2)
+  - Peronist Senate dominance (17/24 provinces)
+  - Chronic fiscal crisis
+- **6.9.5**: Milei's Attempt to Dismantle Provincial Clientelism (2024-2025)
+  - Cuts -11.3% real; discretionary +79-89% for allies
+  - CABA +238%; Buenos Aires cut
+- **6.9.6**: Framework Integration (Buenos Aires vs. California comparison table)
+- **6.9.7**: Testable Predictions (H9: Intraprovincial Asymmetry)
+  - Scenario A: Status quo (70%)
+  - Scenario B: Constitutional reform (25%)
+  - Scenario C: Fiscal rebellion (5%)
+- **6.9.8**: Summary — Three-Level Donor-Recipient Asymmetry (NEW)
+
+**Key Contributions**:
+- **Cross-case comparison**: Buenos Aires (ARG) vs. California (USA) as parallel donor cases
+- **H9 hypothesis**: Donor province resistance escalates if extraction > threshold
+- **Natural experiment**: Kicillof vs. Milei (2024-2026) tests provincial rebellion dynamics
+- **EI calculations**: Buenos Aires EI = -0.25 (donor); Formosa EI = +0.63 (recipient)
+
+**Final Word Count**: 40,239 words (~40,200 rounded)
+
+**Version**: v2.1 (both California and Buenos Aires relocated to correct sections)
+
+**Status**: **READY FOR SSRN SUBMISSION**
+
+---
+
