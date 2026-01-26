@@ -302,3 +302,76 @@
 
 ---
 
+
+---
+
+## Session 9: Integration of Biofilm Model (Lerer 2025)
+
+### NEW: Section 9.3.6 — Biofilm Model of Corruption Accumulation
+
+**Word Count**: +1,300 words (Total project: 41,521 words)
+
+**Content Added**:
+
+**Source**: Lerer, I. A. (2025). "The Multilayer Parasite: Quantifying Corruption's Accumulative Evolution Through Computational Analysis of Argentine Legal Responses (1880-2025)." SSRN 5468569.
+
+**Core Contribution**:
+- **Four-Layer Biofilm Model**: Corruption accumulates (AI = 0.439) rather than substitutes
+  - Layer 1: Electoral (33.2% active) — punteros, Manzaneras
+  - Layer 2: Administrative (64.9% active) — ñoquis, sobrefacturación
+  - Layer 3: Entrepreneurial (62.3% active) — Lázaro Báez, Cuadernos
+  - Layer 4: Compliance Capture (100% active) — Law 27.401 captured (10%), cosmetic (33.3%)
+
+**Key Metrics**:
+- **Accumulation Index (AI)**: 0.439 (moderate accumulation vs. substitution)
+- **Biofilm Protection Score**: 0.611 (high mutual protection between layers)
+- **Pro-corruption real-world impact**: 0.801 vs. anti-corruption 0.348
+
+**Application to Paper's Cases**:
+
+1. **Argentina (Section 6)**:
+   - La Matanza: AI ~0.50 (all 4 layers active)
+   - Milei disruption: Attacked Layer 2 only → EI +0.30 → +0.20 (Layers 1, 3, 4 persist)
+   - Prediction: EI cannot reach zero unless all layers attacked simultaneously
+
+2. **Spain (Section 7)**:
+   - PSOE: AI ~0.55 (high accumulation, zero disruption)
+   - Layers 1-4 all active (subsidies, chiringuitos, rail credits, EU compliance capture)
+
+3. **Minnesota (Section 5)**:
+   - DFL: AI ~0.45 (moderate accumulation)
+   - Trump targets Layer 2 (VOLAGs) → Layer 4 (10th Amendment litigation) protects Layers 1-3
+
+**New Hypothesis**:
+- **H10 (Biofilm Hypothesis)**: Single-layer reforms reduce EI <50%; multi-layer reforms reduce EI >75%
+
+**Policy Implications**:
+- Traditional reforms assume **substitution** (new law replaces old corruption)
+- Reality is **accumulation** (new law adds new layer)
+- Effective reform requires **simultaneous attack on all 4 layers**
+
+**Triple-Lock Mechanism**:
+1. **ESS** (Maynard Smith): Evolutionarily stable
+2. **Objective Trap** (Stanley & Lehman): Explicit goals trigger counter-adaptations
+3. **Biofilm Accumulation** (Lerer): Each reform adds layer without eliminating old ones
+
+**Computational Tools**:
+- GitHub: `github.com/adrianlerer/peralta-metamorphosis`
+- Tools: CorruptionLayerAnalyzer, Accumulation Index, Biofilm Protection Score
+
+**Hybrid Vulnerability Metric**:
+- EI × AI = total corruption vulnerability
+- La Matanza: (+0.57) × (0.50) = 0.28 hybrid score
+
+**Citations Added**:
+- Lerer (2025) SSRN 5468569
+- Law 27.401 (Argentina compliance, 2017-2025)
+
+**Final Word Count**: 41,521 words (~41,500)
+
+**Version**: v2.2 (Biofilm Model integrated)
+
+**Status**: **READY FOR SSRN SUBMISSION**
+
+---
+
