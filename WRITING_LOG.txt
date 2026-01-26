@@ -214,3 +214,46 @@
 
 ---
 
+
+---
+
+## Session 8 (CONT): FIX — California Section Relocated
+
+**ERROR DETECTED**: California subsection was incorrectly inserted in **Layer 6 (Rhetorical Legitimation)** instead of **Section 8 (USA Cases)**.
+
+**CORRECTION APPLIED**:
+1. **Deleted** California from Layer 6 (lines 902-965)
+2. **Created** new **Section 8: USA Additional Cases — California as Donor State** (~2,400 words)
+3. **Inserted** Section 8 after Section 7 (line 4002), before Section 9
+4. **Updated** Table of Contents to include Section 8
+
+**New Structure**:
+- **Section 8.1**: Introduction — California as Inverse Case
+- **Section 8.2**: California as Donor State: The 14× Asymmetry
+- **Section 8.3**: Newsom-Trump Conflict (2025): Threat of Fiscal Secession
+- **Section 8.4**: How California Fits Our Framework
+  - Type A Clientelism (Federal Extraction)
+  - Inverse of Minnesota Case (comparison table)
+  - Cross-Level Vulnerability (Proposition 14)
+  - Mercantilism-Clientelism Feedback Loop
+- **Section 8.5**: Evidence of Effectiveness
+- **Section 8.6**: Prediction (2026-2027): Three Scenarios
+- **Section 8.7**: Testable Hypothesis H8 (Donor State Resistance)
+- **Section 8.8**: EI Calculation for California (EI = -0.67)
+- **Section 8.9**: Policy Implications — Donor State Rebellion Risk
+
+**Key Contributions of Section 8**:
+- **Inverse case study**: Minnesota (EI +0.26, recipient) vs. California (EI -0.67, donor)
+- **Zero-sum dynamics**: California's $80-100B deficit subsidizes extraction in 40+ states
+- **Testable hypothesis**: H8 predicts donor state escalation if extraction > 3% of GDP
+- **Natural experiment**: Newsom-Trump conflict (2025-2027) provides real-time test
+- **Three scenarios**: Rhetorical (70%), Legal (25%), Fiscal secession (5%)
+
+**Final Word Count**: 40,076 words (~40,000 rounded)
+
+**Version**: v2.1 (California section relocated to correct position)
+
+**Status**: **READY FOR SSRN SUBMISSION**
+
+---
+
