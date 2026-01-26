@@ -964,6 +964,154 @@ Conclusion: "Social justice" rhetoric masks extraction and avoids accountability
 
 ---
 
+## 6.9 Argentina Intraprovincial Extraction — Buenos Aires as Donor Province (2024–2026)
+
+**Context**: Argentina exhibits the same **donor-recipient asymmetry** at the **province-nation level** as California at the **state-federal level**:
+- **Buenos Aires** (Argentina's largest province) = **California** (USA's largest state)
+- Both contribute far more in taxes than they receive in federal/national transfers
+- Both finance **clientelism in other jurisdictions** through fiscal extraction
+
+### **6.9.1 Buenos Aires as Donor Province**
+
+**Fiscal Asymmetry Data (2024–2025):**
+- Buenos Aires contributes **~40% of national tax revenue** (primary taxes collected in province)
+- Buenos Aires receives **~22% of coparticipation funds** (federal revenue sharing)
+- **Per capita transfers**: Buenos Aires receives **$71,185/inhabitant** vs. **$918,095 national average** (only **58%** of average)
+- **Asymmetry ratio**: Buenos Aires pays **1.8× more** than it receives (similar to California 14× in some programs)
+
+**Sources**: [1][2][7][9][10]
+
+**Other Donor Provinces:**
+- **CABA**: Contributes ~15% of national revenue, receives ~5% of coparticipation (asymmetry **-10pp**)
+- **Córdoba**: Contributes ~8%, receives ~6% (asymmetry **-2pp**)
+- **Mendoza**: Contributes ~4%, receives ~3% (asymmetry **-1pp**)
+
+### **6.9.2 Recipient Provinces (Clientelistic Extraction Beneficiaries)**
+
+**Top 5 Provinces by Per Capita Transfers (2024–2025):**
+
+| **Province** | **Per Capita Transfer (vs. average)** | **% Income from Nation** | **USA Analog** | **Political Control** |
+|-------------|---------------------------------------|-------------------------|---------------|---------------------|
+| **Tierra del Fuego** | **2.9× average** ($2.66M/year) | 70% | Alaska | Peronist |
+| **Catamarca** | **2.8× average** ($2.57M/year) | 81.2% | West Virginia | Peronist |
+| **Formosa** | **2.6× average** ($2.39M/year) | **91.9%** | Mississippi | Peronist (Insfrán) |
+| **La Rioja** | **2.3× average** ($2.11M/year) | 86.6% | New Mexico | Peronist |
+| **Santa Cruz** | **2.0× average** ($1.84M/year) | 75% | Wyoming | Kirchnerist |
+
+**Sources**: [1][3][4][5][6][7]
+
+**Key Pattern**: 
+- **All top-5 recipients are Peronist-controlled provinces**
+- **Formosa (91.9% dependency)** = highest federal dependence in Argentina (Gildo Insfrán, 28 years in power)
+- **Buenos Aires (58% of average)** = lowest per capita transfers despite largest population
+
+### **6.9.3 Coparticipation as Type A Clientelism**
+
+**Argentine Coparticipation System (Federal Revenue Sharing):**
+- **Federal government** collects **~80% of all tax revenue** (VAT, income tax, export taxes)
+- **Provinces** receive **57% of collected revenue** via coparticipation formula
+- **Distribution formula** favors small, low-density provinces over large urban provinces
+
+**Comparison with USA:**
+
+| **Dimension** | **Argentina (Buenos Aires)** | **USA (California)** |
+|--------------|----------------------------|---------------------|
+| **Contribution** | 40% of national revenue | 15.9% of federal revenue |
+| **Receipt** | 22% of coparticipation | 10.9% of federal spending |
+| **Asymmetry** | -18pp (pays 1.8× more) | -5pp (pays 14× more in some programs) |
+| **Per capita ratio** | 0.58× national average | ~0.35× national average |
+| **Political control** | Opposition (PRO/UCR) | Opposition (Democratic) |
+| **Conflict** | ❌ No open conflict (yet) | ✅ Newsom threatens to withhold taxes (2025) |
+
+### **6.9.4 Why Buenos Aires Doesn't Rebel (Unlike California)**
+
+**Key Differences:**
+
+1. **Constitutional Constraint:**
+   - Argentina: **Coparticipation mandated by Article 75.2** of Constitution (1994 reform)
+   - USA: **No constitutional mandate** for federal transfers → California has more legal leverage
+
+2. **Political Structure:**
+   - Argentina: **Peronist dominance in Senate** (17/24 provinces) → Buenos Aires isolated
+   - USA: **California has 52 House seats + 54 electoral votes** → leverage in Congress
+
+3. **Historical Path Dependence:**
+   - Argentina: **Coparticipation since 1935** → provinces addicted to federal transfers
+   - USA: **Federalism tradition** → states retain more fiscal autonomy
+
+4. **Economic Crisis:**
+   - Argentina: **Chronic fiscal crisis** → Buenos Aires can't afford to rebel (needs federal bailouts)
+   - USA: **California has $4T GDP** → credible threat to withhold taxes
+
+### **6.9.5 Milei's Attempt to Dismantle Provincial Clientelism (2024–2025)**
+
+**Milei's Fiscal Reform (2024–2025):**
+- **Cut federal transfers** by 11.3% in real terms (2024 vs. 2023)
+- **Discriminatory distribution**: Provinces that supported Milei's reforms received **discretionary transfers +79–89%** in 2025; opposition provinces received **cuts**
+- **Example**: CABA (pro-Milei) received **+238% real increase** in discretionary transfers (2025 vs. 2024); Buenos Aires (anti-Milei) received **cuts**
+
+**Sources**: [6][7][8]
+
+**Reaction:**
+- **Peronist governors** (Formosa, La Rioja, Catamarca) accused Milei of "punishing provinces for voting Kirchnerist"
+- **Buenos Aires Governor Kicillof** (Peronist) demanded **full coparticipation** + compensation for cuts
+- **Milei's defense**: "We're ending clientelism. Provinces must collect their own taxes."
+
+**Outcome (2025–2026):**
+- **Partial dismantling**: Real transfers down 11.3% (2024), but **discretionary transfers doubled** (political quid pro quo)
+- **New clientelism**: Milei replaced **Peronist clientelism** with **libertarian clientelism** (rewarding allied governors)
+- **Buenos Aires asymmetry unchanged**: Still pays 1.8× more than receives
+
+### **6.9.6 Framework Integration**
+
+**Buenos Aires vs. California:**
+
+| **Dimension** | **Buenos Aires (ARG)** | **California (USA)** |
+|--------------|----------------------|---------------------|
+| **D1 (Fiscal Transfers)** | -1.8× (donor) | -14× (donor) |
+| **D2 (Brokers)** | Low (urban province, no punteros) | Low (direct taxation) |
+| **D3 (Geographic Concentration)** | High (concentrated in Buenos Aires city) | High (concentrated in LA/SF) |
+| **D4 (Demographic Targeting)** | Low (universal programs) | Low (universal programs) |
+| **D5 (Institutional Formalization)** | High (constitutional coparticipation) | Low (discretionary federal grants) |
+| **D6 (Cross-Level Extraction)** | **+1.0** (victim of federal extraction) | **+1.0** (victim of federal extraction) |
+| **γ (cooperation)** | +0.5 (no rebellion, but tension) | -0.67 (open conflict, Newsom threatens) |
+| **EI** | **-0.25** (donor province) | **-0.25** (donor state) |
+
+**Interpretation:**
+- Both Buenos Aires and California are **victims of Type A clientelism** (federal/national extraction)
+- Both finance **clientelism in recipient jurisdictions** (Formosa/Tierra del Fuego in Argentina; West Virginia/Mississippi in USA)
+- **Key difference**: California has **credible threat to rebel** (Newsom 2025); Buenos Aires does not (constitutional lock-in + Senate control by Peronist provinces)
+
+### **6.9.7 Testable Predictions (2026–2027)**
+
+**Hypothesis H9 (Intraprovincial Asymmetry):**
+- As **federal extraction** from donor provinces increases, **provincial resistance** will escalate through:
+  1. **Rhetorical opposition** (2024–2025): Kicillof demands "full coparticipation"
+  2. **Legal challenges** (2025–2026): Buenos Aires sues for constitutional reform
+  3. **Fiscal non-compliance** (2027+, if γ < -0.75): Buenos Aires withholds national taxes
+
+**Prediction for 2026:**
+- **Scenario A (Status Quo)**: Milei continues discretionary transfers → Buenos Aires asymmetry unchanged → EI = -0.25 stable
+- **Scenario B (Constitutional Reform)**: Congress debates coparticipation reform → Buenos Aires receives 30% (vs. 22% current) → EI = -0.15
+- **Scenario C (Fiscal Rebellion)**: Buenos Aires withholds taxes → Federal government cuts all transfers → γ = -1 (constitutional crisis)
+
+**Early Indicators (2025):**
+- ✅ Kicillof rhetoric escalating: "Buenos Aires subsidizes Peronist clientelism in the interior"
+- ❌ No legal challenges filed yet (as of Jan 2026)
+- ❌ No fiscal non-compliance (as of Jan 2026)
+
+**Next Test**: **October 2025 provincial elections** in Buenos Aires → if Kicillof loses, Milei can increase extraction; if Kicillof wins, resistance escalates
+
+---
+
+**EI Scores**:
+- **Buenos Aires (donor)**: **EI = -0.25**
+- **Formosa (recipient)**: **EI = +0.63**
+- **California (donor)**: **EI = -0.25**
+- **Minnesota (recipient)**: **EI = +0.26**
+
+---
+
 ## 3. Mathematical Formalization: Legitimation Function
 
 ### 3.1 The Legitimation Trade-Off

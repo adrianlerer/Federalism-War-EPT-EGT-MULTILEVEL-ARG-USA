@@ -130,3 +130,87 @@
 
 ---
 
+
+---
+
+## Session 8b: Argentina Intraprovincial Extraction — Buenos Aires as Donor Province (2026-01-25)
+
+### NEW: Section 6.9 — Buenos Aires = California (Province-Nation Asymmetry)
+
+**Word Count**: +2,200 words (Total project: ~47,000 words)
+
+**Content Added**:
+
+1. **Buenos Aires Donor Province Data**:
+   - Buenos Aires contributes **40% of national revenue**, receives **22% of coparticipation** (asymmetry **-18pp**)
+   - **Per capita**: Buenos Aires receives **$71,185/inhabitant** vs. **$918,095 national average** (only **58%** of average)
+   - **Ratio**: Buenos Aires pays **1.8× more** than it receives (similar to California 14×)
+
+2. **Recipient Provinces (Top 5)**:
+   - **Tierra del Fuego**: 2.9× average ($2.66M/year), 70% dependency
+   - **Catamarca**: 2.8× average ($2.57M/year), 81.2% dependency
+   - **Formosa**: 2.6× average ($2.39M/year), **91.9% dependency** (Insfrán, 28 years)
+   - **La Rioja**: 2.3× average ($2.11M/year), 86.6% dependency
+   - **Santa Cruz**: 2.0× average ($1.84M/year), 75% dependency
+
+3. **Comparison Buenos Aires vs. California**:
+   - Both are **donor jurisdictions** (EI = -0.25)
+   - Both finance **clientelism in recipient jurisdictions**
+   - **Key difference**: California has **credible threat to rebel** (Newsom 2025); Buenos Aires does not (constitutional lock-in + Senate control by Peronist provinces)
+
+4. **Why Buenos Aires Doesn't Rebel**:
+   - **Constitutional constraint**: Coparticipation mandated by Article 75.2 (1994)
+   - **Political structure**: Peronist dominance in Senate (17/24 provinces)
+   - **Path dependence**: Coparticipation since 1935
+   - **Economic crisis**: Buenos Aires needs federal bailouts
+
+5. **Milei's Attempt to Dismantle Provincial Clientelism (2024–2025)**:
+   - Cut federal transfers **-11.3% real** (2024 vs. 2023)
+   - **Discriminatory distribution**: Pro-Milei provinces received **+79–89% real** in discretionary transfers (2025); opposition provinces received **cuts**
+   - **CABA**: +238% real increase (pro-Milei)
+   - **Buenos Aires**: cuts (anti-Milei, Kicillof)
+
+6. **Testable Hypothesis H9 (Intraprovincial Asymmetry)**:
+   - As federal extraction increases → provincial resistance escalates:
+     1. **Rhetorical opposition** (2024–2025): Kicillof demands "full coparticipation"
+     2. **Legal challenges** (2025–2026): Buenos Aires sues for constitutional reform
+     3. **Fiscal non-compliance** (2027+, if γ < -0.75): Buenos Aires withholds taxes
+
+7. **Predictions (2026–2027)**:
+   - **Scenario A**: Status quo → EI = -0.25 stable
+   - **Scenario B**: Constitutional reform → Buenos Aires receives 30% (vs. 22%) → EI = -0.15
+   - **Scenario C**: Fiscal rebellion → γ = -1 (constitutional crisis)
+
+**Sources Added**:
+- [1] https://www.eldia.com/nota/2025-12-7-5-33-39-la-coparticipacion-tiene-un-reparto-que-castiga-a-la-provincia-economia-dominical
+- [2] https://www.infobae.com/economia/2025/04/17/ajuste-fiscal-las-provincias-revirtieron-el-deficit-y-el-fmi-presiona-para-que-bajen-ingresos-brutos/
+- [3] https://algoestapasando.com.ar/coparticipacion-insfran-recibio-mas-de-2-millones-por-habitante-y-fue-la-3-provincia-mas-beneficiada/
+- [4] https://algoestapasando.com.ar/coparticipacion-formosa-cierra-el-2025-como-una-de-las-mas-beneficiadas-pero-con-leve-crecimiento/
+- [5] https://www.radiouniversidad.com.ar/2023/02/27/tierra-del-fuego-es-la-que-mas-dinero-recibio-en-concepto-de-coparticipacion-federal/
+- [6] https://www.pregon.com.ar/nota/-56495/2025/12/transferencias-a-provincias-al-tercer-trimestre-muestran-una-mejora-real-moderada
+- [7] https://www.eldia.com/nota/2025-9-22-2-24-2-el-reparto-desigual-de-fondos-nacionales-a-la-provincia-le-tocan-migajas-per-capita-politica-y-economia
+- [8] https://opc.gob.ar/provincias/informe-trimestral-de-transferencias-a-provincias-datos-a-marzo-2025/
+
+**Why This Matters**:
+- **Universal pattern**: Donor-recipient asymmetry exists at **multiple levels**:
+  - **USA**: California (state) → Federal government → other states (Minnesota, West Virginia)
+  - **Argentina**: Buenos Aires (province) → National government → other provinces (Formosa, Tierra del Fuego)
+- **Clientelism as federal extraction**: Both cases illustrate **Type A clientelism** (extraction from productive jurisdictions to finance clientelism in dependent jurisdictions)
+- **Stability condition**: Donor jurisdictions **cannot rebel** if:
+  1. Constitutional lock-in (Argentina: Article 75.2)
+  2. Political isolation (Argentina: Peronist Senate majority)
+  3. Economic dependency (Argentina: fiscal crisis)
+
+**Theoretical Contribution**:
+- **Proposition 15 (Donor-Recipient Stability)**: Clientelistic extraction is stable if:
+  - **Donor jurisdictions** lack constitutional exit option + political leverage
+  - **Recipient jurisdictions** control legislative veto (Senate in Argentina; swing states in USA Electoral College)
+  - **Federal government** can use **discretionary transfers** to reward allies and punish enemies
+
+**Next Steps**:
+- Add **Table 3**: Comparison Buenos Aires (ARG) vs. California (USA) vs. Catalonia (Spain)
+- Integrate **H9** into Section 10 (Policy Implications)
+- Update **Appendix B** (EI calculations) with Buenos Aires
+
+---
+
