@@ -76,3 +76,57 @@
 - **Words**: Section 9: +1,400 → ~3,200 total
 - **Total Project**: ~41,600 → ~43,000 words
 
+
+---
+
+## Session 8: California 14× Asymmetry Integration (2026-01-25)
+
+### NEW: Section 2.4 — California as Inverse Case (Donor State Resistance)
+
+**Word Count**: +1,200 words (Total project: ~44,700 words)
+
+**Content Added**:
+1. **California Donor State Data**:
+   - 2024: California paid **$275.6B MORE** than received in federal spending
+   - Structural gap: **$80–100B/year**
+   - Asymmetry: **14× ratio** in some programs
+
+2. **Newsom-Trump Conflict (2025)**:
+   - Trump cuts $4B for High-Speed Rail
+   - Newsom threatens to **withhold federal taxes**
+   - Legal challenge exploring "fiscal secession"
+
+3. **Framework Integration**:
+   - **Type A Clientelism**: California = donor; other states = recipients
+   - **Inverse of Minnesota**: CA victim of federal extraction vs. MN beneficiary
+   - **EI = -0.25** (California) vs. **EI = +0.26** (Minnesota)
+   - **γ = -0.67** (federal-state war in both cases)
+
+4. **Testable Hypothesis**:
+   - **H8 (Donor State Resistance)**: As extraction increases → rhetorical threats → legal challenges → fiscal non-compliance (if γ < -0.75)
+
+5. **Predictions (2026–2027)**:
+   - **Scenario A**: Rhetorical only → EI stable
+   - **Scenario B**: Legal challenge fails → EI stable
+   - **Scenario C**: Fiscal secession → γ = -1 (constitutional crisis)
+
+**Sources Added**:
+- California Budget Center (2025): Donor state data
+- Rockefeller Institute Balance of Payments (2024): Interstate fiscal flows
+- Gov. Newsom press releases (2025): Threat to withhold taxes
+- *South Dakota v. Dole* (1987): Federal funding conditionality precedent
+
+**Why This Matters**:
+- California is the **mirror image** of Minnesota:
+  - Minnesota: Benefits from federal clientelism ($15B refugee funding)
+  - California: **Pays for** federal clientelism in other states ($80B/year)
+- Illustrates **cross-state extraction dynamic** (D6 dimension)
+- Shows **vulnerability of federal clientelism** if donor states rebel
+
+**Next Steps**:
+- Add California to **Appendix B** (EI calculations)
+- Update **Table 2** (Cross-Case Comparison) to include California
+- Integrate **H8** into Section 10 (Policy Implications)
+
+---
+
